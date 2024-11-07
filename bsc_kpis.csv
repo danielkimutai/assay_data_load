@@ -1,0 +1,260 @@
+kpi_id,kpi_name,company_id,created_at,review period
+10,More Leads,2288,16/04/2024 13:31,NULL
+11,Test creating new kpi using new KPI button with % measurment unit,2288,17/04/2024 11:43,NULL
+12,Test creating new kpi using new KPI button with % measurment unit,2288,17/04/2024 11:45,NULL
+13,Test creating new kpi using new KPI button with numeric measurement unit,2288,17/04/2024 11:47,NULL
+14,Test creating new kpi using new KPI button with time measurment unit,2288,17/04/2024 11:55,NULL
+15,Test creating new kpi using new KPI button with Likert scale measurment unit,2288,17/04/2024 11:58,NULL
+16,Test creating new KPI,2288,17/04/2024 12:34,NULL
+17,Test creating new KPI with currency type,2288,17/04/2024 12:40,NULL
+18,Test creating new KPI with numeric type,2288,17/04/2024 12:41,NULL
+19,Test creating new KPI with time type,2288,17/04/2024 12:41,NULL
+20,Test creating new KPI with likery type,2288,17/04/2024 12:42,NULL
+21,Test 2 KPI with quantitative goal type for binary,2288,18/04/2024 14:20,NULL
+22,Test 2 KPI with qualitative goal type for Likert scale,2288,18/04/2024 14:26,NULL
+23,Test 2 KPI with quantitative goal type for %,2288,18/04/2024 14:29,NULL
+24,Test 2 KPI with qualitative goal type for currency,2288,18/04/2024 14:31,NULL
+25,Test 2 KPI with qualitative goal type for numeric,2288,18/04/2024 14:32,NULL
+26,Test 2 KPI with qualitative goal type for time,2288,18/04/2024 14:34,NULL
+27,Referral Participation Rate:,2288,22/04/2024 08:46,NULL
+28,Referral Conversion Rate:,2288,22/04/2024 08:46,NULL
+29,Tesr,2288,22/04/2024 09:05,NULL
+30,Test 3,2288,22/04/2024 09:06,NULL
+31,Test to delete KPI,2288,22/04/2024 09:11,NULL
+32,Complete collecting data for clients joining via referral,2288,08/05/2024 08:47,NULL
+33,First Contact Resolution Rate:,2288,13/05/2024 08:50,NULL
+34,Repeat Complaint Rate,2288,13/05/2024 08:51,NULL
+35,Escalation Rate,2288,13/05/2024 08:53,NULL
+36,Resolution Quality,2288,13/05/2024 08:58,NULL
+37,Finding out average cost per compaint,2288,13/05/2024 09:59,NULL
+38,Training and Development,2288,13/05/2024 10:27,NULL
+39,% KPI,2288,13/05/2024 10:39,NULL
+40,Currency KPI,2288,13/05/2024 10:41,NULL
+41,Numeric KPI,2288,13/05/2024 10:42,NULL
+42,Binary KPI,2288,13/05/2024 10:43,NULL
+43,Time KPI,2288,13/05/2024 10:43,NULL
+44,Test delete,2288,13/05/2024 11:06,NULL
+45,Test delete,2288,13/05/2024 11:09,NULL
+46,Employee Satisfaction,2288,13/05/2024 21:21,NULL
+47,Complaint Volume Trends:,2288,13/05/2024 21:24,NULL
+48,test,2288,03/06/2024 12:28,NULL
+49,Test on description captured,2288,07/06/2024 08:45,NULL
+50,KPI with notes,2288,12/06/2024 17:17,NULL
+51,KPI with notes,2288,14/06/2024 11:57,NULL
+52,Binary incomplete test,2288,15/07/2024 10:13,NULL
+53,Complete test,2288,15/07/2024 10:15,NULL
+54,Binary False,2288,15/07/2024 10:28,NULL
+55,Binary True,2288,15/07/2024 10:28,NULL
+56,Newly created accounts,7543,15/07/2024 20:32,NULL
+57,Network expansion,7543,15/07/2024 20:40,NULL
+58,Newly created subscribers,7543,15/07/2024 20:48,NULL
+59,Newly created subscribers,7543,15/07/2024 20:51,NULL
+60,Newly created subscribers,7543,15/07/2024 20:54,NULL
+61,Newly created subscribers,7543,15/07/2024 21:14,NULL
+62,Newly created subscribers,7543,15/07/2024 21:17,NULL
+63,Newly created subscribers,7543,15/07/2024 21:21,NULL
+64,Newly created subscribers,7543,15/07/2024 21:23,NULL
+65,Newly created subscribers,7543,15/07/2024 21:24,NULL
+66,Employee development plan,7543,21/07/2024 18:18,NULL
+67,Technology training index,7543,21/07/2024 18:21,NULL
+68,Information efficiency index,7543,21/07/2024 18:23,NULL
+69,Simplify billing operations,7543,21/07/2024 18:43,NULL
+70,Number of tickets solved,7543,21/07/2024 18:52,NULL
+71,Register entities in 5 jursidictions,5220,25/07/2024 14:06,NULL
+72,Test on Binary false update,2288,26/07/2024 09:56,NULL
+73,Achieve a sales target of ksh 4.5 million,5971,31/07/2024 11:46,NULL
+74,Measure Extent of Compliance with ISO certification,5971,31/07/2024 14:44,NULL
+75,Increase in website traffic and growth in social media engagement,5971,31/07/2024 15:35,NULL
+76,"Achieve sales target of ksh9,000,000 during by the end of second half year",5971,31/07/2024 15:44,NULL
+77,ROI on digital marketing,5971,31/07/2024 15:51,NULL
+78,The number of people interacting with our contents through commenting and liking and sharing,5971,31/07/2024 16:08,NULL
+79,"Assess how efficiently you manage your time and resources to pursue leads, complete tasks and meet deadlines",5971,31/07/2024 16:11,NULL
+80,Contribute sales revenue of ksh1.5 million per month,5971,01/08/2024 09:18,NULL
+81,Revenue Generated from Digital Marketing Activities,5971,02/08/2024 10:32,NULL
+82,"Growth in followers, likes, shares and comments across social media platforms",5971,02/08/2024 10:36,NULL
+83,Increase in website traffic and improvement in conversion rates,5971,02/08/2024 10:45,NULL
+84,Number of Trainings Attended,5971,02/08/2024 10:58,NULL
+85,Revenue generated from both walk-in and online clients should amount to ksh 1.5 million per month,5971,02/08/2024 11:20,NULL
+86,"Tracking the average time taken to respond to customer inquiries, request for information or quote inquiries",5971,02/08/2024 11:26,NULL
+87,Measuring the percentage of existing customer who continue to engage with company for additional services or system upgrades,5971,02/08/2024 11:28,NULL
+88,"Develop SOP for Customer Service Section and measure adherence to company policies, procedures and regulatory requirement",5971,02/08/2024 11:34,NULL
+89,"Stay updated on product the company is offering, features and any changes",5971,02/08/2024 12:01,NULL
+90,Number of Trainings conducted,5971,02/08/2024 13:56,NULL
+91,Work environment improvement,5971,02/08/2024 13:57,NULL
+92,Team Building Activities,5971,02/08/2024 13:59,NULL
+93,Number of hot Leads generated through my network,5971,02/08/2024 14:24,NULL
+94,Measure percentage of employees following established HR policies,5971,02/08/2024 14:35,NULL
+95,"Track the frequency and types of HR policy violations reported, including disciplinary actions taken",5971,02/08/2024 14:38,NULL
+96,Measure knowledge of solar products and services,5971,02/08/2024 15:00,NULL
+97,To measure and report on cost savings achieved through effective negotiations and procurement strategies,5971,02/08/2024 15:20,NULL
+98,Support trade business by selling of batteries,5971,02/08/2024 15:22,NULL
+99,Measure the rate of inventory turnover achieved,5971,02/08/2024 15:31,NULL
+100,Supplier Performance,5971,02/08/2024 16:06,NULL
+101,To measure the effectiveness of risk mitigation strategies in place to address potential disruption in the supply chain,5971,02/08/2024 16:15,NULL
+102,Tendering Success Rate,5971,02/08/2024 16:22,NULL
+103,Achieve Sales target of Target ksh 9 million for 2nd half of the year,5971,05/08/2024 08:53,NULL
+104,Continuously evaluate and improve procurement process for efficiency and effectiveness,5971,06/08/2024 09:43,NULL
+105,Financial Reporting,5971,06/08/2024 12:48,NULL
+106,Expense Management,5971,06/08/2024 12:49,NULL
+107,Operational Controls,5971,06/08/2024 12:50,NULL
+108,Internal Interactions,5971,06/08/2024 13:00,NULL
+109,External Interactions,5971,06/08/2024 13:01,NULL
+110,"Document,define and implement policies and procedures for all financial processes and align the same",5971,07/08/2024 11:58,NULL
+111,Closely Monitoring of Financial Cost,5971,07/08/2024 12:22,NULL
+112,Closely Monitoring Debtors,5971,07/08/2024 12:23,NULL
+113,Product Knowledge,5971,07/08/2024 15:30,NULL
+114,Knowledge transfer to team members,5971,07/08/2024 15:33,NULL
+115,To attain 100% of the set targets,3549,08/08/2024 09:02,NULL
+116,Add 10 new customers,2288,12/08/2024 10:22,NULL
+117,Cost Savings Reported,5971,12/08/2024 14:46,NULL
+118,Evaluate the time and cost efficiency of operational processes and identify areas of improvement,5971,12/08/2024 15:26,NULL
+119,Data Accuracy-Measure the accuracy and timeliness of project data updates and reporting,5971,12/08/2024 15:44,NULL
+120,Leads identified in the quarter,4707,26/08/2024 21:31,NULL
+121,Leads mapped in the quarter,4707,27/08/2024 15:31,NULL
+122,Have Parents meeting twice throughout the season,9503,28/08/2024 15:58,NULL
+123,Recruit 50 students or more,9503,28/08/2024 16:00,NULL
+124,Market product intake,2288,29/08/2024 11:52,NULL
+125,Retrain existing clients on the upgraded feature,2288,29/08/2024 11:54,NULL
+126,Prticipation in the league,9503,02/09/2024 13:21,NULL
+127,Recruit 18 students or more,9503,02/09/2024 13:23,NULL
+128,Customer Retention,7476,02/09/2024 15:58,NULL
+129,Participating in an KFK Sanctioned League,9503,04/09/2024 12:30,NULL
+130,Compete in FKF Sanctioned League,9503,04/09/2024 13:08,NULL
+131,Win 75% of all matches,9503,04/09/2024 13:09,NULL
+132,Recruit 18 students or more including Goal Keepers,9503,04/09/2024 13:11,NULL
+133,3 Girls have attained higher opportunities in the program,9503,04/09/2024 13:13,NULL
+134,Test validated features to be deployed,5220,06/09/2024 09:48,NULL
+135,Financial Contribution,5738,10/09/2024 12:56,NULL
+136,Market place,2288,12/09/2024 09:55,NULL
+137,Talent Acquisition,10047,02/10/2024 18:02,NULL
+138,"Target Income Kshs. 30,000,000.00",5953,09/10/2024 14:36,NULL
+139,Maximum Unbilled Work in Progress (WIP),5953,09/10/2024 14:40,NULL
+140,Income,5953,10/10/2024 11:27,NULL
+141,Amount,5953,10/10/2024 11:53,NULL
+142,Maximum Unbilled WIP,5953,10/10/2024 11:55,NULL
+143,Amount,5953,10/10/2024 12:00,NULL
+144,Amount,5953,10/10/2024 12:03,NULL
+145,Maximum Unbilled WIP,5953,10/10/2024 12:04,NULL
+146,Productivity Tracker,5953,10/10/2024 12:07,NULL
+147,Amount,5953,10/10/2024 12:08,NULL
+148,Unbilled WIP,5953,10/10/2024 12:11,NULL
+149,Productivity Tracker,5953,10/10/2024 12:13,NULL
+150,Productivity Trakcker,5953,10/10/2024 12:16,NULL
+151,New Business from existing clients,5953,10/10/2024 12:21,NULL
+152,New Business from New Clients,5953,10/10/2024 12:24,NULL
+153,New Business from New Clients,5953,10/10/2024 12:31,NULL
+154,Date Implementation of Marketing Plan,5953,10/10/2024 12:36,NULL
+155,Number of Complaints,5953,10/10/2024 12:40,NULL
+156,Internal Customer Survey Score,5953,10/10/2024 12:43,NULL
+157,Internal Customer Survey Score (on JD),5953,10/10/2024 12:46,NULL
+158,Internal Customer Survey Score on Abacus Implementation,5953,10/10/2024 12:48,NULL
+159,Attendance for firm trainings,5953,10/10/2024 12:50,NULL
+160,Conduct Training,5953,10/10/2024 12:53,NULL
+161,Amount,5953,10/10/2024 13:56,NULL
+162,Maximum Unbilled WIP,5953,10/10/2024 13:58,NULL
+163,Amount,5953,10/10/2024 14:29,NULL
+164,<10% of income target to remain unmilled,5953,10/10/2024 14:39,NULL
+165,Attendance for Firm Trainings,5953,10/10/2024 14:48,NULL
+166,Conduct Training,5953,10/10/2024 14:50,NULL
+167,Attendance for Individual Advocate Business and Marketing Program,5953,10/10/2024 14:55,NULL
+168,Internal Customer Survey Score,5953,10/10/2024 14:57,NULL
+169,Internal Customer Survey Score,5953,10/10/2024 15:00,NULL
+170,Attendance for Firm Trainings,5953,10/10/2024 15:04,NULL
+171,Attendance for Firm Trainings,5953,10/10/2024 15:06,NULL
+172,Conduct Training,5953,10/10/2024 15:08,NULL
+173,Attendance for Individual Advocate Business and Marketing,5953,10/10/2024 15:13,NULL
+174,Internal Customer Survey Score (on JD),5953,10/10/2024 15:19,NULL
+175,Internal Customer Survey Score (on JD),5953,10/10/2024 15:21,NULL
+176,Internal Customer Survey Score on Abacus Implementation,5953,10/10/2024 15:23,NULL
+177,Internal Customer Survey Score on Abacus Implementation,5953,10/10/2024 15:25,NULL
+178,New Business from Existing Clients,5953,10/10/2024 15:28,NULL
+179,New Business from New Clients,5953,10/10/2024 15:30,NULL
+180,Date Implementation of Marketing Plan,5953,10/10/2024 15:32,NULL
+181,Number of Complaints,5953,10/10/2024 15:34,NULL
+182,<10% of Income Target to remain unbilled,5953,10/10/2024 15:36,NULL
+183,Amount,5953,10/10/2024 15:38,NULL
+184,<10% of Income Target to remain unmilled,5953,10/10/2024 15:40,NULL
+185,Productivity Tracker,5953,10/10/2024 15:44,NULL
+186,Productivity Tracker,5953,10/10/2024 15:45,NULL
+187,New Business from Existing Clients,5953,10/10/2024 16:17,NULL
+188,New Business from New Clients,5953,10/10/2024 16:18,NULL
+189,Date Implementation of Marketing Plan,5953,10/10/2024 16:20,NULL
+190,Number of Complaints,5953,10/10/2024 16:21,NULL
+191,Production Deployment Handling,4277,11/10/2024 11:23,NULL
+192,Production Deployment Handling,4277,11/10/2024 11:32,NULL
+193,Deployment Efficiency,4277,11/10/2024 12:01,NULL
+194,Deployment efficiency,4277,11/10/2024 12:01,NULL
+195,Average time taken for deployment,4277,11/10/2024 12:36,NULL
+196,Average time taken for deployment,4277,11/10/2024 12:45,NULL
+197,Deployment Quality and Performance,4277,11/10/2024 12:51,NULL
+198,Deployment Quality and Performance,4277,11/10/2024 12:53,NULL
+199,Production Deployment,4277,11/10/2024 14:30,NULL
+200,Production Deployment,4277,11/10/2024 14:31,NULL
+201,"Measure the output, relative to the resources used.",4277,11/10/2024 15:01,NULL
+202,"Measure the output, relative to the resources used.",4277,11/10/2024 15:02,NULL
+203,Deployment Process efficiency,4277,11/10/2024 15:06,NULL
+204,Deployment Process efficiency,4277,11/10/2024 15:07,NULL
+205,Customer satisfaction Score and deployment rate,4277,11/10/2024 15:22,NULL
+206,Customer satisfaction Score and deployment rate,4277,11/10/2024 15:23,NULL
+207,Response time,4277,11/10/2024 15:43,NULL
+208,Response time,4277,11/10/2024 15:44,NULL
+209,Average escalation process time,4277,11/10/2024 16:27,NULL
+210,Customer satisfaction score (CSAT),4277,14/10/2024 11:26,NULL
+211,Customer satisfaction score (CSAT),4277,14/10/2024 11:29,NULL
+212,First response time and resolution time,4277,14/10/2024 14:20,NULL
+213,Correctly identifying which team to escalate issues to and quickness in escalating issues to the appropriate team,4277,14/10/2024 15:29,NULL
+214,Deployment success rate,4277,15/10/2024 13:27,NULL
+215,Mean time to resolve Escalations,4277,15/10/2024 13:28,NULL
+216,Generate 300 leads,4277,17/10/2024 14:35,NULL
+217,Hire 200 customers in Q4,8894,17/10/2024 16:30,NULL
+218,Hire 200 customers in Q4,8894,17/10/2024 17:06,NULL
+219,Average Time to Resolution,4277,18/10/2024 09:57,NULL
+220,Ensure that 98% of system alerts are identified and responded to within 3 minutes,4277,18/10/2024 10:33,NULL
+221,Ensure that 98% of system alerts are identified and responded to within 3 minuts,4277,18/10/2024 10:37,NULL
+222,Ensure that 98% of system alerts are identified and responded to within 3 minutes,4277,18/10/2024 10:43,NULL
+223,Ensure that 98% of system alerts are identified and responded to within 3 minutes,4277,18/10/2024 10:43,NULL
+224,Ensure proactive monitoring of system uptime and detection of issues,4277,18/10/2024 11:07,NULL
+225,Ensure proactive monitoring of system uptime and detection of issues,4277,18/10/2024 11:08,NULL
+226,Ensure proactive monitoring of system uptime and detection of issues,4277,18/10/2024 11:08,NULL
+227,Ensure proactive monitoring of system uptime and detection of issues,4277,18/10/2024 11:08,NULL
+228,100% Documentation of key processes and solutions on teams,4277,18/10/2024 11:37,NULL
+229,100% Documentation of key processes and solutions on teams,4277,18/10/2024 11:38,NULL
+230,100% Documentation of key processes and solutions on teams,4277,18/10/2024 11:39,NULL
+231,100% Documentation of key processes and solutions on teams,4277,18/10/2024 11:39,NULL
+232,At least 90% of the target for year is met.,6087,18/10/2024 22:44,NULL
+233,Aim for 96% or above punctuality within the last quarter of the year 2024,4277,22/10/2024 09:13,NULL
+234,Aim for 96% or above punctuality within the last quarter of the year 2024,4277,22/10/2024 09:14,NULL
+235,Aim for 96% or above punctuality within the last quarter of the year 2024,4277,22/10/2024 09:14,NULL
+236,Aim for 96% or above punctuality within the last quarter of the year 2024,4277,22/10/2024 09:15,NULL
+237,Adherence to the daily and weekly schedule,4277,22/10/2024 09:24,NULL
+238,Adherence to the daily and weekly schedule,4277,22/10/2024 09:25,NULL
+239,Adherence to the daily and weekly schedule,4277,22/10/2024 09:25,NULL
+240,Adherence to the daily and weekly schedule,4277,22/10/2024 09:25,NULL
+241,At least 96% or above on timely attendance and reporting,4277,22/10/2024 09:30,NULL
+242,Ensure 96% or above of punctuality and attendance,4277,22/10/2024 09:34,NULL
+243,Aim for 15% reduction in delays in customer follow ups and quotation approvals,4277,22/10/2024 09:47,NULL
+244,The percentage of leads that are converted into qualified sales.,4277,22/10/2024 10:08,NULL
+245,The percentage of leads that are converted into qualified sales,4277,22/10/2024 10:12,NULL
+246,The percentage of leads that are converted into qualified sales,4277,22/10/2024 10:13,NULL
+247,The percentage of leads that are converted into qualified sales,4277,22/10/2024 10:13,NULL
+248,Percentage of solutions accurately aligned with client needs.,4277,22/10/2024 10:21,NULL
+249,Percentage of solutions accurately aligned with client needs,4277,22/10/2024 10:22,NULL
+250,Percentage of solutions accurately aligned with client needs,4277,22/10/2024 10:22,NULL
+251,Percentage of solutions accurately aligned with client needs,4277,22/10/2024 10:23,NULL
+252,On time delivery rate,4277,22/10/2024 10:57,NULL
+253,On time delivery rate,4277,22/10/2024 10:58,NULL
+254,On time delivery rate,4277,22/10/2024 10:58,NULL
+255,On time delivery rate,4277,22/10/2024 10:59,NULL
+256,Client satisfaction with implemented solutions,4277,22/10/2024 11:02,NULL
+257,Client satisfaction with implemented solutions,4277,22/10/2024 11:02,NULL
+258,Client satisfaction with implemented solutions,4277,22/10/2024 11:03,NULL
+259,Client satisfaction with implemented solutions,4277,22/10/2024 11:03,NULL
+260,Client retention rate.,4277,22/10/2024 11:20,NULL
+261,Percentage of existing clients who purchase additional products and services.,4277,22/10/2024 11:29,NULL
+262,Repeat business percentage from clients and referral rates,4277,22/10/2024 11:35,NULL
+263,Rate of positive feedback from clients leading to referrals to other clients,4277,22/10/2024 11:39,NULL
+264,Revenue Growth from Existing Clients,4277,22/10/2024 12:40,NULL
+265,Response Time to Client Issues,4277,22/10/2024 12:56,NULL
+266,Timely completion of joint project milestones,4277,22/10/2024 13:16,NULL
+267,Net Promoter Score (NPS): Percentage of clients willing to recommend NSI Technology Africa to others,4277,22/10/2024 13:25,NULL
+268,Collaboration with Sales Teams,4277,22/10/2024 14:07,NULL

@@ -1,0 +1,233 @@
+kra_id,name,company_id,created_at,assigne_id,plan_id,area_id
+1,Increase Brand Awareness,2288,04/04/2024 14:08,120947,15,16
+2,Improve Customer Retention,2288,04/04/2024 14:10,120947,15,16
+3,ughh,2288,04/04/2024 14:29,124462,17,17
+4,Marketing external training,2288,04/04/2024 16:58,120947,18,15
+5,Test creating new kr using new KPI button,2288,17/04/2024 11:40,120947,15,16
+6,Increase referral customers,2288,22/04/2024 08:41,120947,15,16
+7,Complaint Handling,2288,13/05/2024 08:19,120947,17,16
+8,Cost per Complaint:,2288,13/05/2024 09:56,120947,17,16
+9,Monitoring customer satisfaction,2288,22/05/2024 08:06,132841,15,16
+10,Test creating KRA recurs,2288,10/06/2024 07:54,132841,15,16
+11,Test new KRA should be first on the list,2288,12/06/2024 16:12,132841,24,35
+12,Collect revenue,7461,05/07/2024 14:46,124629,26,45
+13,Retain 100% of Customers by EOQ,4592,10/07/2024 10:39,124271,28,51
+14,Increase market visilibility,6007,12/07/2024 13:45,108824,30,53
+15,Increase number of active subscribers,7543,15/07/2024 20:24,128078,32,58
+16,Increase market coverage,7543,15/07/2024 20:37,127780,32,55
+17,Increase number of active subscribers,7543,15/07/2024 20:46,127861,32,58
+18,To increase number of active customers,7543,15/07/2024 20:59,128077,32,58
+19,To increase number of active subscribers,7543,15/07/2024 21:51,128078,32,58
+20,To increase number of active customers,7543,15/07/2024 22:08,127861,32,58
+21,100% retention,2395,18/07/2024 09:13,78322,34,63
+22,Measure CSAT,2395,18/07/2024 09:19,138386,34,62
+23,Increase Revenues by 50%,5220,18/07/2024 09:54,113820,27,46
+24,Ramp up invoice collection efforts,7461,18/07/2024 15:38,124633,26,45
+25,10% per quarter,7543,21/07/2024 09:47,127780,44,67
+26,Reducing operation cost,7543,21/07/2024 17:21,127780,43,67
+27,Employee development plan,7543,21/07/2024 18:00,128078,53,64
+28,Technology training index,7543,21/07/2024 18:01,128078,53,64
+29,Employees information efficiency index,7543,21/07/2024 18:02,128078,53,64
+30,New products as percentage of sales,7543,21/07/2024 18:27,128077,50,64
+31,Increase revenue generation,7543,21/07/2024 18:37,127780,44,67
+32,Increase net revenue generation,7543,21/07/2024 18:38,127780,44,67
+33,Simplify billing operations,7543,21/07/2024 18:45,127780,44,66
+34,Efficient equipment utilizations,7543,21/07/2024 20:28,127780,44,65
+35,Register entities in 5 jurisdictions by EOQ,5220,25/07/2024 14:03,134118,54,48
+36,Increase revenue by 15M,4708,25/07/2024 16:40,88016,56,69
+37,Increase by 25000,4708,25/07/2024 16:44,88016,56,69
+38,Revenue by 15000,4708,25/07/2024 16:54,88016,56,69
+39,Increase Market visibility,7461,30/07/2024 12:25,124633,59,75
+40,Test 1,7461,30/07/2024 12:36,124633,59,75
+41,Increased sales revenue,5971,31/07/2024 11:36,137262,64,80
+42,Increased efficiency and effectiveness of the team,5971,31/07/2024 12:57,116052,71,81
+43,Achieve 80% compliance with ISO certification -ISO9001:2015 Quality Management System,5971,31/07/2024 14:41,116052,66,82
+44,Develop and implement effective online and offline campaigns to promote our solar products and services,5971,31/07/2024 15:27,112462,72,81
+45,"Achieve Sales Target of ksh 1,500,000 per month from digital marketing activities",5971,31/07/2024 15:40,112462,72,80
+46,Improved content engagement,5971,31/07/2024 16:02,112462,72,82
+47,Develop and implement effective online and offline campaigns to promote our solar products and services,5971,01/08/2024 09:15,112462,72,80
+48,Increase Revenue Generated from Digital Marketing Campaigns,5971,02/08/2024 10:29,112462,73,86
+49,Increase Social Media Engagement,5971,02/08/2024 10:34,112462,73,87
+50,Increase Website Traffic and Conversion Rates,5971,02/08/2024 10:39,112462,73,88
+51,Product Knowledge,5971,02/08/2024 10:48,112462,73,89
+52,Develop and Execute Digital Marketing Strategies,5971,02/08/2024 10:53,112462,73,88
+53,Develop and Execute Digital Marketing Strategies,5971,02/08/2024 11:00,112462,73,88
+54,Increase Sales Revenue from both walk in and online clients,5971,02/08/2024 11:17,137262,74,86
+55,Measuring Customer Satisfaction Score,5971,02/08/2024 11:22,137262,74,87
+56,Compliance with SOP,5971,02/08/2024 11:31,137262,74,88
+57,Increase Product Knowledge,5971,02/08/2024 11:35,137262,74,89
+58,Increase Team engagement and Satisfaction,5971,02/08/2024 13:52,116052,75,87
+59,Contribute to the company sales target,5971,02/08/2024 14:18,116052,75,86
+60,Measure the level of compliance to company policies,5971,02/08/2024 14:28,116052,75,88
+61,Learn About company's Product and Solutions offered,5971,02/08/2024 14:53,116052,75,89
+62,Increase cost savings,5971,02/08/2024 15:16,108208,76,86
+63,"Evaluate supplier performance based on  delivery timeliness, quality, and adherence to contractual agreements",5971,02/08/2024 15:54,108208,76,87
+64,To measure the numbers of tenders won and the ability to finalize tender documents within the given deadlines,5971,02/08/2024 16:18,108208,76,88
+65,Increase in Sales,5971,05/08/2024 08:50,108199,77,86
+66,"Improve Supplier Performance, Measure Tender Success Rate",5971,06/08/2024 09:28,108208,76,87
+67,Continuous improvement,5971,06/08/2024 09:38,108208,76,89
+68,Financial Reporting,5971,06/08/2024 10:00,116196,78,86
+69,Internal Interactions,5971,06/08/2024 12:54,116196,78,87
+70,Stakeholders Interactions,5971,06/08/2024 12:58,112462,78,87
+71,Innovator Development,5971,07/08/2024 11:52,116196,78,88
+72,Operational Control,5971,07/08/2024 11:56,116196,78,88
+73,Attend and participate in all scheduled trainings and webinars,5971,07/08/2024 12:33,116196,78,89
+74,Continuous Professional Development,5971,07/08/2024 15:26,116196,78,89
+75,To attain 100% on set targets for the quarter.,3549,08/08/2024 08:51,67345,80,71
+76,To reduce complaints to 0 in the quarter,3549,08/08/2024 08:53,67345,80,72
+77,To have 6 policies guiding processes in the department,3549,08/08/2024 08:54,67345,80,73
+78,Increase Market Dominance,2288,12/08/2024 10:17,145077,31,40
+79,Achievement of Cost Savings and Efficiency Improvements,5971,12/08/2024 14:26,108198,81,86
+80,Automation of processes,6087,14/08/2024 16:30,110957,83,91
+81,Recruit 45 Students,9503,26/08/2024 16:55,153870,85,94
+82,Understand the market in depth for expansion,4707,26/08/2024 21:28,94173,86,79
+83,Test test qwerty,2395,27/08/2024 12:41,153833,34,61
+84,QWERTY,2395,27/08/2024 12:48,152554,34,61
+85,Customer satisfaction,2395,27/08/2024 12:58,152554,34,61
+86,Achieve target of 12 million naira (Annual),5738,27/08/2024 13:30,102753,88,96
+87,Reduce operational costs,4707,27/08/2024 15:13,88653,86,76
+88,Increase brand awareness,4707,27/08/2024 15:16,88653,86,77
+89,Market new products,2288,28/08/2024 15:42,132841,16,14
+90,Grow the academy's impact,9503,28/08/2024 15:50,153870,91,94
+91,Internal customers intake for new products,2288,29/08/2024 11:48,132841,89,14
+92,Reduced churn rate,2288,29/08/2024 11:53,120947,22,16
+93,18 Girls Recruited including GK,9503,02/09/2024 13:09,153871,92,98
+94,Higher level of competition,9503,02/09/2024 13:10,153871,92,97
+95,Increase Customer Retention,7476,02/09/2024 15:53,155025,93,106
+96,Streamline current processes,2395,04/09/2024 10:52,154313,94,61
+97,Increase number of students in the program,9503,04/09/2024 13:10,153871,92,98
+98,We have granted Opportunities to Players in the U21 Girls Program,9503,04/09/2024 13:12,153870,92,101
+99,Increase our level of competition and performance,9503,04/09/2024 13:20,153870,95,97
+100,Validate features pending to be deployed,5220,06/09/2024 09:47,146616,96,48
+101,"Achieve 12,000,000",5738,10/09/2024 12:10,102753,88,96
+102,Achieve target of 12 million naira (Annual),5738,10/09/2024 12:53,102753,97,108
+103,Conduct survey for external clients on the new product,2288,12/09/2024 09:20,132841,89,14
+104,External customers intake for new products,2288,12/09/2024 09:21,132841,89,14
+105,Get more sales conversions,7461,27/09/2024 10:04,124629,102,112
+106,Stay Hungry,7204,27/09/2024 12:26,124631,103,118
+107,Acquire the best talent for each role,10047,30/09/2024 13:20,156892,105,119
+108,Reduce annual employee turnover,10047,02/10/2024 17:33,156892,107,120
+109,Achieve 100% target,10047,02/10/2024 17:54,156893,110,121
+110,Acquire the best talents,10047,02/10/2024 17:58,156892,109,119
+111,Register in all jurisdiction in Africa,4708,03/10/2024 23:35,88016,111,69
+112,Customer satisfaction and retention,4277,09/10/2024 11:23,153661,112,132
+113,Increase Profitability,4277,09/10/2024 12:52,153661,113,131
+114,"Target Income of Kshs. 30,000,000.00",5953,09/10/2024 14:29,108135,114,127
+115,Increase Revenue/Income,5953,10/10/2024 11:23,108135,114,127
+116,Improve Financials,5953,10/10/2024 11:37,108072,116,127
+117,Improve Customer Engagement and Experience,5953,10/10/2024 11:38,108072,116,128
+118,Gross Income,5953,10/10/2024 11:44,108072,116,127
+119,Gross Profit Percentage,5953,10/10/2024 11:46,108072,116,127
+120,Net Profit Percentage,5953,10/10/2024 11:46,108072,116,127
+121,Income,5953,10/10/2024 11:49,108135,116,127
+122,New Business from Old Clients,5953,10/10/2024 12:17,108135,116,128
+123,New Business from New Clients,5953,10/10/2024 12:29,108135,116,128
+124,Implement Business and Marketing Plan,5953,10/10/2024 12:34,108135,116,128
+125,External Client Satisfaction,5953,10/10/2024 12:37,108135,116,128
+126,Internal Customer Satisfaction,5953,10/10/2024 12:42,108135,116,129
+127,Adherence to Standard Operating Procedures (SOPs),5953,10/10/2024 12:44,108135,116,129
+128,Abacus Implementation,5953,10/10/2024 12:46,108135,116,129
+129,Training Programme Attendance,5953,10/10/2024 12:49,108135,116,130
+130,Conduct Training,5953,10/10/2024 12:51,108135,116,130
+131,Maximum Unbilled WIP,5953,10/10/2024 14:35,108135,116,127
+132,Individual Advocate Business & Marketing,5953,10/10/2024 14:52,108135,116,130
+133,Productivity,5953,10/10/2024 15:42,108135,116,127
+134,Process improvement,4277,11/10/2024 11:13,153661,119,134
+135,Escalations handling efficiency,4277,11/10/2024 11:44,153660,118,134
+136,Deployment Efficiency,4277,11/10/2024 11:52,153660,119,133
+137,Measure the average time taken to complete a deployment,4277,11/10/2024 12:30,153661,119,133
+138,Improve the average time taken to complete deployments,4277,11/10/2024 12:32,153661,119,133
+139,Improve time taken to complete a deployment,4277,11/10/2024 12:44,153660,119,133
+140,Ensure that deployment meets requirements with minimal post deployment issues,4277,11/10/2024 12:49,153661,119,132
+141,Process Improvement,4277,11/10/2024 13:00,153661,119,134
+142,Performance Improvement,4277,11/10/2024 13:34,153661,117,134
+143,Reduce time taken in deployment,4277,11/10/2024 13:48,153661,119,136
+144,Process Improvements,4277,11/10/2024 14:23,153661,124,138
+145,Optimize resource utilization,4277,11/10/2024 14:52,153661,124,137
+146,Process Efficiency,4277,11/10/2024 15:04,153661,124,139
+147,Customer satisfaction and timely delivery,4277,11/10/2024 15:10,153661,124,140
+148,Improved response time,4277,11/10/2024 15:42,153661,123,140
+149,Increase in escalation process,4277,11/10/2024 16:04,153661,123,139
+150,Improve customer retention and satisfaction by providing exceptional services and personalized solutions,4277,14/10/2024 11:21,153661,127,140
+151,Increase market visibility and web traffic,4277,14/10/2024 11:45,153661,127,140
+152,Increase market visibility and increase web traffic,4277,14/10/2024 11:47,153661,127,140
+153,Building quality and efficient business processes,4277,14/10/2024 12:24,153661,127,139
+154,Increase profitability,4277,14/10/2024 12:55,153661,127,137
+155,Customer retention strategies,4277,14/10/2024 12:59,153661,127,137
+156,Customer service improvement,4277,14/10/2024 13:59,153661,127,137
+157,Employee retention,4277,14/10/2024 14:26,153661,127,138
+158,Employee retention rate,4277,14/10/2024 14:27,153661,127,138
+159,Improving business processes,4277,14/10/2024 14:29,153661,127,139
+160,Improve employee retention rates,4277,14/10/2024 14:30,153661,127,138
+161,Increase Students,9503,14/10/2024 14:32,153870,128,101
+162,Timely Escalations,4277,14/10/2024 15:13,153661,130,140
+163,Streamlining the escalation process making it timely and efficient,4277,14/10/2024 15:53,153661,130,139
+164,"Monitoring, escalations and Deployment success rate",4277,15/10/2024 13:21,153661,131,137
+165,Penetrate Rift valley region,4277,17/10/2024 14:21,80205,150,137
+166,Hire Customers from all counties,8894,17/10/2024 15:46,142041,149,146
+167,Increase Service Access to Kenyans,8894,17/10/2024 16:23,142041,149,145
+168,Timely and cost-effective incident resolution,4277,18/10/2024 09:48,153661,131,137
+169,System Monitoring Efficiency,4277,18/10/2024 10:24,153661,153,139
+170,Test Objective,8894,18/10/2024 10:38,142041,152,144
+171,Increased system uptime and reliability,4277,18/10/2024 11:05,153661,153,140
+172,Team collaboration and Knowledge sharing,4277,18/10/2024 11:13,153661,153,138
+173,Decrease system downtime,4277,18/10/2024 11:42,153661,153,137
+174,Deposit Mobilization,6087,18/10/2024 15:48,110957,84,90
+175,Automation of all HR/Admin Processes,6087,18/10/2024 15:53,110957,154,91
+176,Development of a Talent Management Frame-work,6087,18/10/2024 15:55,110957,157,91
+177,Track performance of all Staff,6087,18/10/2024 19:42,110957,158,91
+178,Develop Mentorship Programme for Staff,6087,18/10/2024 19:47,110957,159,91
+179,To Identify the skilled-gap in the organization and fill such gap accordingly,6087,18/10/2024 19:49,110957,160,91
+180,To Develop a Succession Planning for Critical roles.,6087,18/10/2024 19:50,110957,161,91
+181,Improve working Conditions for Staff,6087,18/10/2024 19:51,110957,162,92
+182,Improved Staff Engagement,6087,18/10/2024 19:52,110957,163,92
+183,Improve Staff Welfare,6087,18/10/2024 19:55,110957,164,92
+184,Improve Learning Culture and Continuos Capacity Development,6087,18/10/2024 19:56,110957,165,93
+185,Improve the turn around time on assigned tasks,6087,18/10/2024 20:15,110957,166,91
+186,To mobilize Deposits,6087,18/10/2024 20:42,110957,84,90
+187,Improve Deposit Mobilization,6087,18/10/2024 21:01,110957,167,90
+188,To generate Income for the Organization,6087,18/10/2024 21:05,110964,168,90
+189,Improve Profitability,6087,18/10/2024 21:06,110964,169,90
+190,Increase Liquidity,6087,18/10/2024 21:15,110957,167,90
+191,To set global benchmarks and provide effective service to clients.,6087,18/10/2024 21:29,110964,170,91
+192,"To enable clients in other line of businesses have more access to our products and services with focus on agricultural valuechain, renewable energy and special emphasis on providing for business women.",6087,18/10/2024 21:33,110964,171,91
+193,To ensure all assigned tasks are handled timely and effectively,6087,18/10/2024 21:35,110964,166,91
+194,To Monitor Performance,6087,18/10/2024 21:49,110964,172,91
+195,To ensure at least 90%  performance of loans granted.,6087,18/10/2024 21:59,110964,173,91
+196,To achieve 100% Documentation on both New Accounts for Deposits and Loan Documentation,6087,18/10/2024 22:00,110964,174,91
+197,To monitor inflows,6087,18/10/2024 22:02,110964,175,91
+198,To acquire  125 new customers within the financial year.,6087,18/10/2024 22:20,110964,176,92
+199,Retain 95% of our customer base,6087,18/10/2024 22:24,110964,178,92
+200,To ensure complaints are reduced from internal and external customers.,6087,18/10/2024 22:25,110964,177,92
+201,To Provide leadership and guidance to direct reports,6087,18/10/2024 22:28,110964,180,90
+202,To ensure requests from internal and external customers are promptly responded.,6087,18/10/2024 22:29,110964,180,92
+203,Automation of Organization systems,8225,20/10/2024 19:34,138495,185,149
+204,Test,9280,21/10/2024 18:59,154827,192,154
+205,Coordinate and implement all Wezesha Vijana programs in the country,8225,21/10/2024 20:45,144108,182,149
+206,Number of escalations done within every shift,4277,22/10/2024 08:44,153661,153,139
+207,Efficiency in Escalating arising spikes on all environments.,4277,22/10/2024 08:49,153661,153,139
+208,Ensure consistent punctuality and timely attendance to improve productivity and maintain team performance standards,4277,22/10/2024 09:11,153661,193,139
+209,"Enhance personal Discipline, time management and accountability",4277,22/10/2024 09:17,153661,193,138
+210,Improve punctuality and timely attendance,4277,22/10/2024 09:29,153661,193,139
+211,Improve on punctuality and timely attendance,4277,22/10/2024 09:33,80205,193,139
+212,Increase sales productivity,4277,22/10/2024 09:41,80205,193,138
+213,"Foster better teamwork, streamline communication and ensure the sales process is smooth and efficient",4277,22/10/2024 09:43,80205,193,138
+214,Improve Demo quality,4277,22/10/2024 10:01,80830,194,140
+215,Drive revenue growth and cost efficiency through the presales process,4277,22/10/2024 10:04,80830,194,137
+216,Client Requirement Analysis and Solution Design,4277,22/10/2024 10:17,80830,194,140
+217,"Ensure projects are delivered within the approved budget, without overrunning timelines",4277,22/10/2024 10:53,80830,195,137
+218,Client satisfaction,4277,22/10/2024 11:01,80830,195,140
+219,Strengthen client relationships through regular communication and problem solving.,4277,22/10/2024 11:18,80205,197,140
+220,Increase the rate of renewals and identify opportunities for upselling or cross selling.,4277,22/10/2024 11:24,80205,197,137
+221,Positive feedback leading to referrals,4277,22/10/2024 11:33,80205,197,139
+222,Technical Support and Issue Resolution,4277,22/10/2024 12:10,80830,198,139
+223,Identify new business opportunities within existing accounts to drive revenue growth,4277,22/10/2024 12:19,80205,199,137
+224,Identify new business opportunities within existing accounts to drive revenue growth,4277,22/10/2024 12:24,80205,199,137
+225,"Work with the presales team to craft proposals and demos that meet client needs, supporting business expansion.",4277,22/10/2024 12:43,80205,199,137
+226,Market and Competitor Analysis,4277,22/10/2024 12:47,80205,199,138
+227,"Serve as the main point of contact for all client-related inquiries, ensuring timely and effective communication",4277,22/10/2024 12:54,80205,199,140
+228,"Serve as the main point of contact for all client-related inquiries, ensuring timely and effective communication",4277,22/10/2024 12:59,80205,199,140
+229,"Collaborate with the presales and engineering team, to deliver solutions that meet client expectations.",4277,22/10/2024 13:08,80205,199,139
+230,Effective Problem-Solving and Conflict Resolution,4277,22/10/2024 13:18,80205,199,140
+231,"Preparing and presenting regular client reports, including status updates, key metrics, and future opportunities",4277,22/10/2024 13:20,80205,199,138
+232,"Collaborate with the sales team to prepare proposals, and customized product demos to showcase solution capabilities.",4277,22/10/2024 14:00,80830,200,139

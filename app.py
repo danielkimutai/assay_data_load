@@ -1,5 +1,6 @@
 from google.cloud import storage
 import os
+import csv
 
 def remove_headers(file):
     """Remove headers from the CSV file and save the file without headers."""
@@ -47,7 +48,7 @@ def upload_files_to_gcs(bucket_name, file):
         print(f"Failed to upload {file}: {str(e)}")
 
 # Example usage
-bucket_name = "assay_demo1"
+bucket_name = "uber_data_projecct_dan"
 files_list = [
     "bsc_appraisals.csv"]  ## "bsc_focus_areas.csv", "bsc_key_result_areas.csv", "bsc_kpis.csv",
     ## "bsc_pips.csv", "companies.csv", "departments.csv", "designations.csv", "employees.csv",

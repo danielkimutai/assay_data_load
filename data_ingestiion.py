@@ -1,80 +1,77 @@
 import apache_beam as beam
-import google
-from apache_beam.options.pipeline_options import PipelineOptions
-import sqlalchemy as sqlalchemy
-from google.cloud.sql.connector import Connector
-import logging
 from apache_beam.runners.interactive.interactive_runner import InteractiveRunner
-from apache_beam.io import ReadFromCsv,WriteToText
-from apache_beam.io import WriteToCsv,WriteToText
+import apache_beam.runners.interactive.interactive_beam as ib
+from  apache_beam.io import ReadFromCsv,ReadFromText
+from apache_beam.io import WriteToText,WriteToCsv
+import sqlalchemy as sqlalchemy 
+from google.cloud.sql.connector import Connector
+from apache_beam.options.pipeline_options import PipelineOptions
+import logging
 
 
-# Enable logging
-logging.basicConfig(level=logging.INFO)
+#setting up Apache Beam Pipeline Options 
+beam_options = PipelineOptions(
+    setup_file = "/home/kokim/projects/assay_data_load/setup.py",
+    runner = "DataflowRunner",
+    project = "lithe-catbird-434312-p9",
+    temp_location = "gs://assay_demo1/temp",
+    region = "us-east1-b")
 
-# Define the pipeline options
-options = PipelineOptions()
-
-# Define GCS bucket and Cloud SQL configuration
-input_bucket = "gs://assay_demo1/"
-input_file = "employees.csv"
-
-class WriteToSQL(beam.DoFn):
-    def setup(self):
-        # Function to return database connection
-        def get_conn():
-            connector = Connector()
+class WriteToCloudSQL(beam.DoFn):
+    def process(self, element):
+        # a function to return the database connection
+        import sqlalchemy as sqlalchemy 
+        from google.cloud.sql.connector import Connector
+        def getconn():
+            connector = Connector ()
             conn = connector.connect(
-                "lithe-catbird-434312-p9:us-central1:assaydemo",  # Update with correct connection name
-                "pymysql",  # Explicitly use pymysql as driver
-                user="dan",
-                password="Arapkdan@12",
-                db="assay_demo"
-            )
+                    "lithe-catbird-434312-p9:us-central1:assaydemo",  # Update with correct connection name
+                    "pymysql",
+                    user="dan",
+                    password="Arapkdan@12",
+                    db="assay_demo"
+                    )
             return conn
         
-        # Create connection pool with SQLAlchemy
-        self.pool = sqlalchemy.create_engine(
-            "mysql+pymysql://",
-            creator=get_conn
-        )
+        # create a connection pool 
+        pool = sqlalchemy.create_engine(
+                                        "mysql+pymysql://",
+                                        creator = getconn,
+                                        )
+        
+       #insert statement (DML statement for data load )
+        insert_stmt = sqlalchemy.text("INSERT INTO employees(employee_id,company_id,department_id,person_id,employment_type,employment_status,designation_id) VALUES (:employee_id,:company_id,:department_id,:person_id,:employment_type,:employment_status,:designation_id)",)
+        
+        # interact with cloud sql
+        with pool.connect() as db_conn:
+            # insert data into table 
+            db_conn.execute(insert_stmt,parameters={'employee_id':element['employee_id'],
+                                                    'company_id':element['company_id'],
+                                                    'department_id':element['department_id'],
+                                                    'person_id':element['person_id'],
+                                                    'employment_type':element['employment_type'],
+                                                    'employment_status':element['employment_status'],
+                                                    'designation_id': element['designation_id'],})
+
+            db_conn.commit()
+def run ():
+ # read the data from gcs location 
+    with beam.Pipeline(options=beam_options) as p :
+    # read the csv file 
+        read_csv =  p | 'Read' >> beam.io.ReadFromText('gs://assay_demo1/employees.csv') #| 'Print'  >> beam.Map(print)
+
+    # write to a staging areaa
+        staging = (read_csv)
+
+        staging | 'WriteToText' >> WriteToText('gs://assay_demo1/staging/employees.csv')
+
+        # write to sql table 
+        staging | "Write results to CloudSQL Table"  >> beam.ParDo(WriteToCloudSQL())
     
-    def process(self, element):
-        """Process each element and write to Cloud SQL"""
-        # Parse the CSV line (assuming a comma-separated file)
-        fields = element.split(',')
-        if len(fields) != 7:
-            logging.error(f"Unexpected number of fields: {fields}")
-            return
+# Run Pipeline here 
+if __name__ == "__main__":
+    logging.getLogger().setLevel(logging.INFO)
+    run()
 
-        # Insert data into the database
-        insert_stmt = sqlalchemy.text(
-            "INSERT INTO employees (employee_id, company_id, department_id, person_id, employment_type, employment_status, designation_id) "
-            "VALUES (:employee_id, :company_id, :department_id, :person_id, :employment_type, :employment_status, :designation_id)"
-        )
-    
-        try:
-            with self.pool.connect() as connection:
-                connection.execute(insert_stmt, **params)
-                logging.info("Inserted record successfully.")
-        except Exception as e:
-            logging.error(f"Error inserting record: {e}")
-
-    def teardown(self):
-        # Close the connection pool
-        self.pool.dispose()
-
-# Define the Beam pipeline
-with beam.Pipeline(options=options) as p:
-    # Read and process CSV data, skipping the header
-    read_csv = (
-        p 
-        | 'Read CSV' >> beam.io.ReadFromText(input_bucket + input_file, skip_header_lines=1)
-        | 'Write to Cloud SQL' >> beam.ParDo(WriteToSQL())
-    )
-
-# Run the pipeline
-result = p.run()
-result.wait_until_finish()
 
 

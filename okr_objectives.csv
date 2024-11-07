@@ -1,0 +1,1049 @@
+obj_id,company_id,department_id,owner_id,scope,start_date,end_date,status,state,total_metric,name
+1,711,NULL,18181,3,30/09/2023 22:00,31/12/2023 22:59,5,1,0,"GROWTH: Achieve significant growth in key metrics, such as customer, by 2X by the end of the year."
+2,711,NULL,18181,3,30/09/2023 22:00,31/12/2023 22:59,5,1,0,PROFITABILITY: Achieve a positive cash flow position by the end of the year.
+3,711,NULL,18181,3,30/09/2023 22:00,31/12/2023 22:59,5,1,0,CULTURE: Foster a performance-driven culture and collaboration to drive continuous growth.
+7,1,NULL,102737,1,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Increase market visibility (test)
+13,1,NULL,43270,3,30/09/2023 21:00,31/12/2023 20:59,5,1,28.34,Increase market visibility (test)
+14,711,785,86703,2,31/12/2022 21:00,31/03/2023 20:59,5,1,0,Increase market visibility
+15,2288,NULL,98855,3,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Increase market visibility
+16,2288,2339,98857,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Product research for global market fit
+17,2288,2339,98519,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Templated payroll for global markets limit to Afirca
+18,2288,NULL,98855,3,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Create a culture fit organisation by hiring the right talent
+19,2288,2339,44108,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Automation Testing added to our CI/CD Pipelines
+20,711,NULL,43885,1,30/09/2023 21:00,31/12/2023 20:59,3,1,59.76,Expand to other markets
+21,711,785,86703,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Having a well defined product and design process
+22,711,785,86703,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Build a delightful and scalable product
+23,711,785,86703,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Switch from gut feeling product decisions to being radicallly data driven to reduce complexity
+24,1,133,102104,2,31/12/2022 21:00,31/03/2023 20:59,3,1,56.67,Increase Market Visibility
+25,711,1151,74476,2,31/12/2022 21:00,30/12/2023 21:00,5,1,0,Ops D1: Ensure processes are in place to enable continuous learning and development across all teams and individuals
+26,711,1151,74476,2,31/12/2022 21:00,30/12/2023 21:00,5,1,0,Ops D2: Retain and grow customers
+27,711,1151,74476,2,31/12/2022 21:00,30/12/2023 21:00,5,1,0,"Ops D3: Improve intra/interdepartmental collaboration, communication, and information sharing"
+28,711,NULL,54517,1,30/09/2023 21:00,30/12/2023 21:00,5,1,0,Improve recruitment process efficiency.
+29,711,NULL,54517,1,30/09/2023 21:00,30/12/2023 21:00,5,2,0,Improve team engagement
+30,711,10831,15099,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Improve Efficent Team Processes
+31,711,10831,15099,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Improve response times to internal and external customers
+32,711,10831,15099,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Master our understanding of Customer Satisfaction with Support services
+33,711,10832,19588,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Success T2: Drive Revenue Growth
+34,711,10832,19588,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Success T1: Improve Customer satisfaction
+35,711,10832,19588,2,30/09/2023 21:00,31/12/2023 20:59,5,1,0,Sucess T3: Improve and Create Efficient Team Processes
+36,1,NULL,106674,1,31/10/2023 21:00,29/11/2023 21:00,5,1,56.67,Increase social media presence
+37,1,NULL,102737,1,31/10/2023 21:00,29/11/2023 21:00,3,1,0,Increase sales
+38,1,NULL,102104,1,31/10/2023 21:00,29/11/2023 21:00,5,1,0,increase sales by 10%
+39,711,NULL,79353,1,30/09/2023 21:00,30/12/2023 21:00,5,2,0,Payroll T1: Increase quantity and quality of live global payroll configurations.
+40,711,NULL,79353,1,30/09/2023 21:00,31/12/2023 20:59,5,2,0,Payroll T2: Improve quality and compliance of monthly international tax filing process.
+41,711,808,102035,2,05/11/2023 21:00,08/11/2023 21:00,4,2,0,Onboard Jos This Week
+42,711,NULL,66530,3,31/12/2022 21:00,31/12/2023 20:59,5,2,0,Legal T3: Improve cross-team effectiveness through enhances access and accountability to legal and operational knowledge
+43,711,1151,18181,3,31/12/2023 21:00,30/12/2024 21:00,4,1,44.19,"C3 GROWTH: Achieve significant growth in key metrics, such as customer, by 2X by the end of the year."
+44,711,1151,18181,3,31/12/2023 21:00,30/12/2024 21:00,4,1,57.96,C1 PROFITABILITY: Achieve a positive cash flow position by the end of the year.
+45,711,NULL,18181,3,31/12/2023 21:00,30/12/2024 21:00,4,1,0,PROFITABILITY: Achieve a positive cash flow position by the end of the year.
+46,711,1151,18181,3,31/12/2023 22:00,31/12/2024 20:59,4,1,59.52,C2 CULTURE: Foster a performance-driven culture and collaboration to drive continuous growth.
+47,711,807,15091,2,31/12/2023 12:00,31/12/2024 12:00,3,1,84.68,"Eng D1: Enhance software quality and reliability, upholding stringent budgetary discipline for efficient resource utilization."
+48,711,807,15091,2,31/12/2023 12:00,31/12/2024 12:00,4,1,64.33,Eng D2: Elevate collaboration and knowledge-sharing while fostering employee feedback and recognition.
+49,711,807,15091,2,31/12/2023 12:00,31/12/2024 12:00,4,1,66.85,"Eng D3: Attain comprehensive software optimization by enhancing scalability, expanding market presence, introducing high-value features, and reinforcement of engineering capabilities."
+50,711,11846,74234,2,31/12/2023 21:00,31/03/2024 20:59,4,1,1.43,SaaS T3:KR 3.2 Achieve 1200 new logos (Growth)
+51,711,806,15093,2,31/12/2023 21:00,31/03/2024 20:59,5,1,57.33,"Growth D1: ""Reduce CAC and Optimise Marketing Investments (Profitability)		 		"""
+52,711,806,15093,2,31/12/2023 21:00,31/03/2024 20:59,5,1,42.41,Growth D2: Build a Self-Driven and High Output Work Ethic (Culture)
+53,711,11846,74234,2,31/12/2023 21:00,31/03/2024 20:59,4,1,0,"SaaS T3:KR 3.1 Achieve MRR target of $90,000(Growth)"
+54,711,806,15093,2,31/12/2023 21:00,31/03/2024 20:59,5,1,24.41,Growth D3: Achieve the company's key Growth Metrics (Growth)
+55,711,785,86703,2,31/12/2023 15:00,31/03/2024 14:59,5,2,62.78,"Product D1 Q2: Enable seamless scalability of our product by focusing on digitization, design debt resolution, and system automation"
+56,711,785,86703,2,31/12/2023 12:00,31/03/2024 11:59,4,1,77.08,"Product D2 Q1: Foster purpose, innovation, and deliver high-quality results within specified deadlines"
+57,711,785,86703,2,31/12/2023 22:00,31/03/2024 20:59,5,1,57.94,Product Q1 D3: Drive sustainable commercial growth and maximize customer value by introducing customer driven features and services
+58,711,10828,66530,2,31/12/2023 21:00,31/03/2024 20:59,3,2,116.67,Legal T3 Q1: Proactively take steps to ensure that Workpay & all its entities are 100% compliant with applicable laws
+59,711,10828,66530,2,31/12/2023 21:00,31/03/2024 20:59,3,2,100,Legal T2 Q1: Promoting a culture of accuracy and accountability in legal processes and output documents
+60,711,10828,66530,2,31/12/2023 21:00,31/03/2024 20:59,5,2,47.92,Legal T1 Q1:Enable commercial growth through automation of legal processes and production of legal knowledge tools that minimize advisory demands
+61,711,808,15099,2,01/01/2024 15:00,31/12/2024 14:59,4,1,52.59,Support T1:2024 Improve and create efficient Team processes
+62,711,808,15099,2,31/12/2023 21:00,31/03/2024 20:59,5,1,60.73,Support T2:Q1 Incorporate Values and Data-driven performance into new and existing Support practices
+63,711,808,15099,2,30/06/2024 22:00,30/09/2024 20:59,4,1,59.19,"Support T3:2024 Enable rapid, product-driven growth"
+64,1,NULL,112733,1,31/12/2023 21:00,30/03/2024 21:00,4,1,0,increase sales
+65,711,1151,74476,2,31/12/2023 21:00,30/12/2024 21:00,4,1,59.35,"Ops D1: Profitability: Optimize people, tools, and processes for scalability to enable cost and time-efficient commercial growth"
+66,711,1151,74476,2,31/12/2023 21:00,30/12/2024 21:00,4,1,79.27,Ops D2: Performance Culture: Create purpose and connection between team members and performance by ensuring that values and data are embedded in every aspect of our operations
+67,711,1151,74476,2,31/12/2023 21:00,30/12/2024 21:00,4,1,76.45,Ops D3: Growth: enable and sustain commercial growth by growing the Workpay team and maximizing customer value and experience
+68,3559,NULL,67564,1,02/01/2024 21:00,30/12/2024 21:00,4,1,0,Conduct In-House Safety Trainings
+69,711,10832,19588,2,01/01/2024 15:00,31/12/2024 15:00,3,1,115.58,Success T3-2024: Contribute to 2x commercial growth by protecting and significantly growing existing revenue base
+70,711,10832,19588,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,Success T2-Q1: Continuously recognize and hold team accountable to Workpay values and team performance data
+71,711,10832,19588,2,01/01/2024 15:00,31/12/2024 15:00,5,1,11.96,"Success T1-2024: Minimizing customer onboarding and management costs through a focus on self-service, automation, and efficiency"
+72,711,3105,15090,2,31/12/2023 21:00,30/12/2024 21:00,4,1,30.48,Finance D1: Streamline Internal Processes to control expenses and achieve heightened cost efficiency
+73,711,3105,15090,2,31/12/2023 21:00,30/12/2024 21:00,4,1,20,Finance D2: Create purpose and connection between team members and performance by ensuring that values and data are embedded in every aspect of our operations
+74,711,3105,15090,2,31/12/2023 21:00,30/12/2024 21:00,4,1,33.33,Finance D3:Continually improve Payment and Credit processes in order to Increase customer stickiness and value
+75,3533,NULL,69607,3,31/12/2023 21:00,31/03/2024 20:59,4,1,45.83,Increase Market penetration
+76,3533,NULL,69607,1,31/12/2023 21:00,31/03/2024 20:59,3,1,100,Open a new market in Western
+77,2168,NULL,110603,3,31/12/2023 21:00,30/03/2024 21:00,3,1,37.5,Increase Market Visibility
+78,711,10833,62158,2,31/12/2023 18:00,31/03/2024 17:59,4,1,90.17,Marketing T1 Q1:  Increase ROI on Marketing Spend to achieve Profitability
+79,711,NULL,91705,1,31/12/2023 21:00,31/03/2024 20:59,4,1,0,test objective (John)
+80,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,100,"Enhance observability by exposing dashboards that will enable the team to track different metrics of our tests, especially performance tests."
+81,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,3,2,100,"Refactor the existing tests for the following payroll modules (Run payroll, Deductions, Allowances, leave module, expenses, documents and salary rates ) to conform to the new design."
+82,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,100,"Clean up API tests for the following Payroll modules (Run payroll, Deductions)."
+83,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,66.67,Plan 3 bug bash sessions to uncover hidden issues or assist in validation of issues before bug day.
+84,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,3,2,80,Write 5 confluence articles on automation and performance testing.
+85,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,100,Hold 2 training sessions with the QA team on getting started with playwright automation and k6.
+86,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,100,Create a how to guide on AIO in readiness for when we add it to our bag of QA tools.
+87,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,100,Achieve 100% on time delivery of sprints assigned
+88,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,100,Write performance tests for two payroll modules.
+89,711,NULL,95221,1,31/12/2023 21:00,31/03/2024 20:59,4,2,100,Schedule a weekly maintenance session for the automation team to check the status of the tests running on the pipeline.
+90,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,"SaaS KE T3:KR 3.3 Increase number of employees by 60,000"
+91,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS KE T1:KR 1.1 Transition to 90% virtual meetings
+92,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS KE T1:KR 1.2 Improve research and prospecting for the 6  E. African countries
+93,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS KE T1:KR 1.3 Improve upselling and cross selling across all business lines.
+94,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS KE T2:KR 2.1 Build a pipeline with atleast 100 closable deals with high number of employees MoM
+95,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS KE T2:KR 2.2 Increase number of demo meetings 12 per week
+96,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS KE T2:KR 2.3 Organize in one Weekly training (Product and Sales)
+97,711,10833,62158,2,31/12/2023 18:00,31/03/2024 17:59,4,1,78.3,Marketing T3 Q1: Build a High-Quality Inbound Lead Pipeline (Growth)
+98,711,10833,62158,2,31/12/2023 15:00,31/03/2024 14:59,4,1,83.05,Marketing T2 Q1: Cultivate a High Performance Culture for Exceptional Results
+99,711,11852,92070,2,31/12/2023 21:00,30/12/2024 21:00,2,2,100,FS T1: Reduce CAC and optimise sales activities (Profitability)
+100,711,11852,92070,2,31/12/2023 21:00,30/12/2024 21:00,2,2,82.71,FS T2: Improves sales efficiency by reducing the sales cycle length (Performance Culture)
+101,711,11852,92070,2,31/12/2023 21:00,30/12/2024 21:00,2,2,20.52,FS T3: Achieve the company's key Growth metrics (Growth)
+102,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,29.21,"SaaS KE T1: Reduce CAC and optimize sales activities. 80% virtual meetings, expansion in EA countries , upselling and cross selling across all business lines (Profitability)"
+103,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,4,1,33.03,"SaaS KE T2: Improves sales efficiency by reducing the sales cycle length.Strong deals pipeline,demo meetings and weekly product and sales trainings (Performance Culture)"
+104,711,11846,74234,2,31/12/2023 21:00,30/12/2024 21:00,5,1,16.55,"SaaS KE T3: Achieve the company's key Growth metrics. 1200 new companies, 60,000 new employees and $90,000 MRR (Growth)"
+105,711,NULL,25452,1,31/12/2023 21:00,31/03/2024 20:59,5,1,0,KR 1.1: Redesigning the employee listing page to support a more dynamic page(1 = not started; 2 = Started but incomplete; 3 = complete and in -use)
+106,711,NULL,25452,1,31/12/2023 21:00,31/03/2024 20:59,5,1,0,KR 1.2 Redesigning the company settings page to support the addition of entities (1 = not started; 2 = Started but incomplete; 3 = complete and in -use)
+107,711,NULL,25452,1,31/12/2023 21:00,31/03/2024 20:59,5,1,0,KR 2.1: Redesigning the company onboarding journey to have a more straightforward and simplified journey  (1 = not started; 2 = Started but incomplete; 3 = complete and in -use)
+108,711,NULL,25452,1,31/12/2023 21:00,31/03/2024 20:59,5,1,0,KR 3.1:  Maintaining the employee job history (1 = not started; 2 = Started but incomplete; 3 = complete and in -use)
+109,711,NULL,25452,1,31/12/2023 21:00,31/03/2024 20:59,5,1,0,KR 3.2: Support the addition of contract extensions and job promotions for employees  (1 = not started; 2 = Started but incomplete; 3 = complete and in -use)
+110,711,NULL,25452,1,31/12/2023 21:00,31/03/2024 20:59,5,1,0,KR 4.1: Enable companies to onboard EOR employees via the system (1 = not started; 2 = Started but incomplete; 3 = complete and in -use)
+111,711,11853,74236,2,31/12/2023 21:00,30/12/2024 21:00,3,1,27.48,Partnerships T1: Reduce CAC and improve Partner engagement (Profitability)
+112,711,11853,74236,2,31/12/2023 21:00,30/12/2024 21:00,3,1,41.67,Partnerships T2: Improve  Partnership engagements(Performance Culture)
+113,711,11853,74236,2,31/12/2023 18:00,30/12/2024 18:00,5,1,2.87,Partnerships T3: Achieve the company's key Growth metrics (Growth)
+114,711,11851,43887,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,EoR T3: Achieve $120k MRR and 600 new FTEs
+115,711,11851,43887,2,30/06/2024 22:00,30/09/2024 20:59,3,1,50,EoR T1: Optimize Sales Operations for Improved Profitability (Profitability)
+116,711,11851,43887,2,01/07/2024 01:00,30/09/2024 23:59,4,1,25,EoR T2: Improves sales efficiency by reducing the sales cycle length (culture)
+117,711,11847,15101,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,"SaaS NG T3: Achieve growth by acquiring 300 new logos, 15k emps and $22,500 MRR"
+118,711,11847,15101,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS NG T2: Improve Sales efficiency by boosting pipeline strength and shortening the sales cycle
+119,711,11847,15101,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,SaaS NG T1: Reduce CAC and optimise sales activities by achieving <80% virtual meetings and supporting the growth of partnerships and Ghana Market
+120,711,11849,95678,2,31/12/2023 18:00,30/12/2024 18:00,5,1,0,"SaaS KE T3: Achieve the company's key Growth metrics. 1200 new companies, 60,000 new employees and $90,000 MRR (Growth)"
+121,711,11849,95678,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,"SaaS TZ T2: Improves sales efficiency by reducing the sales cycle length.Strong deals pipeline,demo meetings and weekly product and sales trainings (Performance Culture)"
+122,711,11849,95678,2,31/12/2023 21:00,30/12/2024 21:00,4,1,0,"SaaS TZ T1: Reduce CAC and optimize sales activities. 80% virtual meetings, expansion in EA countries , upselling and cross selling across all business lines (Profitability)"
+123,711,10829,54517,2,31/12/2023 21:00,31/03/2024 20:59,5,1,0,Improve time and cost efficiency across all critical People Operations
+124,711,10829,54517,2,31/12/2023 21:00,31/03/2024 20:59,5,1,0,Define and embed performance culture by incorporating performance and data into everything we do
+125,711,10829,54517,2,31/12/2023 21:00,31/03/2024 20:59,5,1,0,"Grow a high-quality, sustainable global team"
+126,711,10832,19588,2,01/01/2024 09:00,31/12/2024 09:00,3,1,89.86,Success T2-2024: Continuously recognize and hold team accountable to Workpay values and team performance data
+127,711,NULL,87018,1,01/01/2024 01:00,31/03/2024 23:59,4,1,100,Success T2:Q1-2 Cultivate a culture of continuous learning with 100% team participation in 2 quarterly training initiatives
+128,6431,12026,115000,2,31/12/2023 21:00,30/03/2024 21:00,5,1,0,Revenue & Budget Optimization
+129,6431,NULL,115008,1,31/12/2023 21:00,31/03/2024 20:59,5,1,0,CS Cost Management
+130,354,7526,113721,2,31/03/2024 21:00,30/06/2024 20:59,5,1,0,savings
+131,2763,NULL,53744,3,31/12/2023 21:00,31/03/2024 20:59,5,1,0,Achieve 80% market penetration
+132,3511,5411,114948,2,01/04/2024 01:00,29/06/2024 23:59,5,1,0,Onboard at least 5 modern trade outlets in Uganda by end of Q2 2024
+133,1401,1348,94546,2,31/12/2023 21:00,31/03/2024 20:59,5,1,0,Increase OTIF
+134,711,NULL,84268,1,31/12/2023 18:00,31/03/2024 17:59,4,1,100,Success T2:Q1-2 Cultivate a culture of continuous learning with 100% team participation in 2 quarterly training initiatives
+135,6592,NULL,118166,3,31/12/2023 23:00,31/03/2024 21:59,5,1,0,Get 50 employees by the end of the year
+136,6592,12588,118166,2,31/12/2023 23:00,31/03/2024 21:59,5,1,0,Increase the social media reach
+137,2288,NULL,118212,3,31/12/2023 21:00,31/03/2024 20:59,5,1,9.63,"C1: Achieve growth of the company in terms of companies, employees aand revenue"
+138,2288,2343,118211,2,31/12/2023 21:00,31/03/2024 20:59,4,1,28.89,"D1: Achieve the company growth metrics. 2000 new companies, 100k employees and $2250000 MRR (Growth)"
+139,2288,NULL,118090,3,31/12/2023 21:00,31/03/2024 20:59,4,1,33.33,Increase Market Visibility
+140,5048,NULL,92642,3,31/12/2023 23:00,30/03/2024 23:00,4,1,6.67,zzzxxxxx
+141,5048,8530,92642,2,31/01/2024 22:00,28/02/2024 22:00,5,1,0,Test
+142,5048,8975,110620,2,31/12/2023 23:00,28/02/2024 23:00,5,1,0,Test
+143,4821,8147,93706,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,"Success T1-Q1: Minimizing customer onboarding and management costs through a focus on self-service automation, and efficiency"
+144,3095,3594,66182,2,31/12/2023 21:00,30/03/2024 21:00,4,1,40,75% of PAYG Tractor Owners and 10% of non-PAYG Tractor Owners around Kisumu Hub will rent implements by 31 March (aspirational)
+145,3494,NULL,74027,1,18/02/2024 21:00,26/03/2024 20:59,3,1,0,send all invoices by midterm break
+146,3095,3594,62614,2,31/12/2023 21:00,31/03/2024 20:59,5,1,2.56,Improve hub experience and customer service at the Hub to increase foot traffic at the Hubs
+147,3095,5388,78386,2,31/12/2023 21:00,31/03/2024 20:59,5,1,0,Increase bookings through new PAYG originations by 4x in 24 months (to 2M+ acres)
+148,3095,NULL,66182,3,31/12/2023 21:00,31/03/2024 20:59,4,1,40,Grow Acres Under management
+149,3095,NULL,66182,3,31/12/2023 21:00,31/03/2024 20:59,5,1,2.56,2. Grow Engagements per Acre
+150,3533,NULL,113702,1,20/02/2024 21:00,30/03/2024 21:00,3,1,0,Increase brand awareness
+151,2395,NULL,113812,3,31/12/2023 21:00,31/03/2024 20:59,5,1,0,C1 Achieve Growth in terms of companies and employees
+152,2288,NULL,118221,3,31/12/2023 21:00,31/03/2024 20:59,5,1,13.33,C1 Achieve Growth in terms of companies and employees
+153,2288,2339,118212,2,31/12/2023 21:00,31/03/2024 20:59,4,1,40,D1 Achieve Growth in terms of companies and employees
+154,3506,NULL,103265,1,17/02/2024 21:00,23/02/2024 21:00,5,1,0,APPOINTMENTS
+155,245,1249,83721,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Improve Customer Satisfaction
+156,245,1249,83721,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Improve Customer Satisfaction
+157,245,1249,83721,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Improve Customer Satisfaction
+158,245,1249,83721,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Improve Customer Satisfaction
+159,245,1249,83721,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Improve Customer Satisfaction
+160,245,1249,119900,2,31/12/2023 16:00,31/03/2024 14:59,4,1,25,Improving on Customer Satisfaction & retention
+161,245,NULL,119899,1,01/01/2024 01:00,31/03/2024 23:59,5,2,0,Test closed objective view
+162,245,NULL,119899,1,01/01/2024 01:00,31/03/2024 23:59,5,2,0,Closed OKR not viewable on dashboard
+163,245,NULL,119899,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Test archived not viewable on parent obj
+164,245,NULL,119899,1,01/01/2024 01:00,31/03/2024 23:59,5,2,100,Test closed objective view 100%
+165,245,1249,119900,2,01/04/2024 01:00,30/06/2024 23:59,3,1,20.83,Reduce Response Time
+166,245,NULL,119899,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Test archive objective
+167,245,1249,119900,2,01/04/2024 01:00,30/06/2024 23:59,3,1,50,Conduct Workshop on upgraded system
+168,245,NULL,119899,1,01/04/2024 01:00,30/06/2024 23:59,3,1,32,Test delete objective
+169,245,NULL,83721,3,01/04/2024 01:00,30/06/2024 23:59,3,1,12.5,Overall company customer satisfaction
+170,245,NULL,108019,3,01/04/2024 01:00,30/06/2024 23:59,3,1,0,Overall company customer satisfaction
+171,245,NULL,119899,1,01/01/2024 01:00,31/03/2024 23:59,3,2,100,Increase market visibility
+172,1,NULL,119951,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Increase Revenue xyz
+173,1,277,119976,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Grow sales to x
+174,1,334,118445,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,grow sales
+175,1,NULL,118445,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,grow sales by 10%
+176,2288,NULL,119975,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Sustainability Goal test demo
+177,2288,NULL,119975,1,01/04/2024 01:00,30/06/2024 23:59,3,1,0,Sustainability Goal test demo
+178,245,NULL,119899,1,01/04/2024 01:00,30/06/2024 23:59,3,1,0,IUGY
+179,245,NULL,119899,1,30/06/2024 22:00,30/09/2024 20:59,3,1,14.54,Testing edit
+180,5048,NULL,111633,3,01/04/2024 01:00,30/06/2024 23:59,3,1,0,Go Global 2024
+181,5048,NULL,111633,3,01/04/2024 01:00,30/06/2024 23:59,3,1,0,Go Global 2024
+182,5048,NULL,111633,3,01/04/2024 01:00,30/06/2024 23:59,3,1,0,Go Global 2024
+183,5048,NULL,120431,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,thfdfghjkl
+184,4821,8147,93706,1,30/09/2024 23:00,31/12/2024 21:59,3,1,0,Growth
+185,3522,NULL,80859,3,01/01/2024 00:00,31/03/2024 22:59,5,1,0,Add 30 client in 2024
+186,1371,1408,25731,2,31/12/2022 21:00,31/03/2024 21:00,5,1,0,Test
+187,2839,NULL,55079,3,31/12/2023 22:00,31/03/2024 20:59,5,1,0,Liberating Financial Potential
+188,2839,NULL,55079,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Create Customer Delight
+189,2839,3022,55108,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Cost Control/Cost Reduction
+192,2839,3022,55108,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Revenue Generation
+193,2839,3022,55108,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Credit & Collections Management
+194,2839,3022,55108,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,High-Performance Culture
+195,6789,NULL,119944,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Become a leading technology solutions provider in West Africa
+196,6789,12889,119945,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Talent Management
+197,6789,12889,120154,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Handle onboarding sessions for new talent
+198,1248,NULL,109077,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Commercial: New Business and organic growth of 156 million
+199,1248,NULL,109077,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Commercial: Minimum 2 pitches a month per scrum
+200,1248,NULL,109077,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Product: Elevate our quality of work; Creative & Strategy (7/10)
+201,1248,1148,109077,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Product: Building brand assets for Brand Belva (4 a year)
+202,1248,NULL,109077,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,"Product: Training and Capability building on strategy, data and insights"
+203,1248,NULL,109077,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Product: Speaking engagement: Once a month
+204,1248,NULL,109077,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,"People; Building our leaders to understand business and commercial, and be strategic in thinking"
+205,1248,NULL,109077,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,"People; Ensure all teams have their KPIS, do one on one reviews, and manage perfomance with HR"
+206,1248,NULL,109077,1,01/10/2024 01:00,31/12/2024 23:59,3,1,30.83,"People; Ensure all my direct reports are growing, get them building their skills and brands and delivering as per the set KPIS"
+207,1248,NULL,109077,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Client: Meet key clients. at least once per month
+208,1248,NULL,109077,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Client: Elevate work and ensure we have only 10% client loss - With client perfomance is minimum at 75% on scoring - A score shit for all key clients
+209,1248,1148,109077,2,30/09/2024 22:00,31/12/2024 20:59,3,1,0,Client: 2 client events per year
+210,3522,NULL,66639,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Increase client base by 80% and Market visibility..
+211,3522,5445,80859,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,"To ensure Accurate, Complete and Timely Completion of Jobs"
+212,3522,5427,66640,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Ensure that all statutory compliance is completed before due dates and office administration run smoothly.
+213,2839,NULL,55079,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Building Organizational Edge
+214,1248,1134,37550,2,01/01/2024 01:00,31/03/2024 23:59,3,1,264.81,Belva to become a place where people love to work
+215,1248,1134,37550,2,01/01/2024 01:00,31/03/2024 23:59,5,1,30.83,To enable a high performance culture
+216,1248,1134,37550,2,31/12/2023 22:00,31/03/2024 20:59,4,1,83.19,To become an organization that champions Diversity & Inclusion and health and wellness
+217,1248,1134,37550,2,01/01/2024 01:00,31/03/2024 23:59,3,1,800,To ensure optimization of HR function
+218,2839,NULL,123949,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Liberating Business Potential – Financial Pillar
+219,2839,NULL,123949,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Liberating Business Potential – Financial Pillar
+220,2839,3021,55105,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Cost Control/Management
+221,2839,3021,55105,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Cash Plan Management/Control
+222,2839,3021,55105,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Timely & Accurate Reporting
+223,2395,NULL,113815,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Achieve 30% growth by the end of 2024
+224,1,NULL,118445,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Achieve 50% company growth in 2024
+225,6383,NULL,117333,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Hiring new accountant by Feb 29th
+226,2839,NULL,113463,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,100% Timley procurement of consumables and other supplies
+227,2839,NULL,113463,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,100% Timley procurement of consumables and other supplies
+228,4708,NULL,88016,3,01/01/2024 01:00,31/03/2024 23:59,4,1,40,PROFITABILITY
+229,4708,8068,88016,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Increase the number of employees in the platform
+230,4708,7903,124500,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,SELLING
+231,4708,7903,124500,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,SELLING
+232,6789,12889,119922,2,31/12/2023 23:00,31/03/2024 21:59,5,1,0,"•	Support in the collation and review of employee performance quarterly and company’s objectives."
+233,6789,12889,119922,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,"•	Prepare and communicate procedures for administration of staff s’ welfare schemes such as leave, pension, insurance, health benefits etc. to ensure common understanding by all employees"
+234,6789,12889,119922,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,"•	Support in the preparation of monthly payroll schedule and adjustment figures for Finance to disburse staff salaries"
+235,6789,12889,119922,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,"•	Monitor the execution of benefits plans to ensure that they meet quality, cost and employee satisfaction objectives"
+236,711,NULL,15098,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Device shipping.
+237,711,NULL,110843,1,01/04/2024 01:00,30/06/2024 23:59,3,1,0,Streamline Wave Apps to provide Reliable P&L reports by inputing Cost of Sales Data
+238,711,NULL,84268,1,31/12/2023 22:00,31/03/2024 20:59,4,1,83.12,"Success T2:Q1-3 Ensure ability to track and visualize 5 key customer health & onboarding metrics to support data driven decisions such as upsells, feature enhancements, usage metrics, churn risk, and product adoption"
+239,711,NULL,84268,1,31/12/2023 22:00,31/03/2024 20:59,5,1,19.44,Success T1:Q1-1: Shorten the onboarding timeline from 22 to 14 days
+240,711,NULL,84268,1,31/12/2023 22:00,31/03/2024 20:59,4,1,54.23,Success T1:Q1-3: Convert clients from short-term billing cycles to to long-term billing cycles to minimize time spent on renewals and collection
+241,711,NULL,84268,1,31/12/2023 22:00,31/03/2024 20:59,4,1,97,Success T3:Q1-1: Retain all active customers each quarter
+242,711,NULL,87018,1,01/01/2024 01:00,31/03/2024 23:59,4,1,50,Success T1:Q1-1: Shorten the onboarding timeline from 22 to 14 days
+243,711,NULL,87018,1,01/01/2024 01:00,31/03/2024 23:59,2,2,98,Success T3:Q1-1: Retain all active customers each quarter
+244,711,NULL,84268,1,01/01/2024 01:00,31/03/2024 23:59,5,1,2.94,Success T3:Q1-2: Achieve an average quarterly and onboarding NPS score of 50
+245,711,NULL,87018,1,31/12/2023 19:00,31/03/2024 17:59,4,1,80,Success T1:Q1-3: Convert 50% of clients from short-term billing cycles to to long-term billing cycles
+246,711,NULL,84268,1,01/01/2024 01:00,31/03/2024 23:59,4,1,72.57,"Success T3:Q1-3: Achieve $2,450 per quarter in upsell and cross-sell Monthly Recurring Revenue (MRR) ($45K annual revenue)"
+247,711,433,79353,2,01/04/2024 01:00,30/06/2024 23:59,2,2,100,Payroll T1-Q2: Improve Customer Satisfaction and Support
+248,711,433,79353,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Payroll T2-Q1: Ensure Timely and Accurate Payment for EOR Employees
+249,711,1151,79353,2,01/01/2024 01:00,31/03/2024 23:59,2,2,100,Payroll T2-Q1:Timely and Accurate Payment for EOR Employees
+250,711,1151,79353,2,01/01/2024 01:00,31/03/2024 23:59,4,1,114.29,Payroll T3-Q1: Implement Business Continuity plan While Expanding Workpay's Reach Across Africa
+251,711,NULL,87018,1,31/12/2023 19:00,31/03/2024 17:59,4,1,55.43,Success T3:Q1-3: Achieve $350 per quarter in upsell and cross-sell Monthly Recurring Revenue (MRR) ($45K annual revenue)
+252,711,10832,87018,1,01/01/2024 10:00,31/03/2024 08:59,4,1,86.25,Success T2:Q1-3 Conduct a wellness check of at least 80 clients
+253,4708,NULL,122963,1,01/04/2024 01:00,30/06/2024 23:59,4,1,0,PROFITABILITY
+254,711,806,92070,2,31/03/2024 22:00,30/06/2024 20:59,2,2,104.44,FS T1 - Q2: PROFITABILITY - Reduce CAC and optimize sales activities
+255,711,NULL,15094,1,31/12/2023 22:00,31/03/2024 20:59,2,2,96,Success T1:Q1-1: Retain all active customers each quarter
+256,711,NULL,15094,1,01/01/2024 01:00,31/03/2024 23:59,2,2,-111.5,Success T1:Q1-2: Shorten the onboarding timeline from 22 to 14 days
+257,711,NULL,15094,1,01/01/2024 01:00,31/03/2024 23:59,2,2,21.66,Success T1:Q1-3: Convert 50% of clients from short-term billing cycles to to long-term billing cycles
+258,711,NULL,15094,1,01/01/2024 01:00,31/03/2024 23:59,4,1,100,Success T2:Q1-1 Cultivate a culture of continuous learning with 100% team participation in 2 quarterly training initiatives
+259,711,NULL,15094,1,01/01/2024 01:00,31/03/2024 23:59,4,1,81.25,Success T2:Q1-2 Conduct a wellness check of at least 80 clients
+260,711,NULL,15094,1,01/01/2024 01:00,31/03/2024 23:59,4,1,52.26,Success T3:Q1-3: Achieve $350 per quarter in upsell and cross-sell Monthly Recurring Revenue
+261,711,NULL,84268,1,01/01/2024 01:00,31/03/2024 23:59,4,1,106.25,Success T2:Q1-3 Conduct a wellness check of at least 80 clients
+262,711,10828,66530,2,01/04/2024 01:00,30/06/2024 23:59,4,1,96.43,Legal Q2 T1: Proactively take steps to ensure that Workpay & all its entities are 100% compliant with applicable laws
+263,711,10828,66530,2,01/04/2024 01:00,30/06/2024 23:59,4,1,100,Legal Q2 T2: Promoting a culture of accuracy and accountability in legal processes and output documents
+264,711,10828,66530,2,01/04/2024 01:00,30/06/2024 23:59,4,1,100,Legal Q2 T3: Enable commercial growth through automation of legal processes and production of legal knowledge tools that minimize advisory demands
+265,6383,NULL,117323,3,01/01/2024 01:00,31/12/2024 23:59,5,1,0,Profitability in Kenya
+266,7240,NULL,124996,1,31/12/2023 21:00,30/12/2024 21:00,3,1,33.33,Build brand visibility
+267,6383,NULL,117323,3,31/12/2023 21:00,30/12/2024 21:00,5,1,0,Maintain cash runway till June 2026
+268,711,NULL,85998,1,01/01/2024 01:00,31/03/2024 23:59,4,1,47.12,Achieve a Quarterly MRR of $350 in Upsells and Cross-sells
+269,7240,NULL,124996,3,31/12/2023 21:00,30/12/2024 21:00,3,1,100,Institutionalize the organization
+270,711,NULL,85998,1,01/01/2024 01:00,31/03/2024 23:59,4,1,80,Conduct a wellness Check of at least 80 Clients
+271,6383,12328,117313,2,01/04/2024 01:00,30/06/2024 23:59,4,1,0,No bad debts write offs
+272,6383,12328,117313,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Contribution Margin of 30%
+273,711,NULL,85998,1,01/01/2024 01:00,31/03/2024 23:59,5,1,-25,Shorten the onboarding timeline from 22 to 14 days
+274,711,NULL,85998,1,01/01/2024 01:00,31/03/2024 23:59,4,1,100,Cultivate a culture of continuous learning by participating in 2 Quarterly trainings
+275,711,NULL,85998,1,01/01/2024 01:00,31/03/2024 23:59,4,1,96.97,Retain all active clients in each quarter
+276,711,NULL,85998,1,01/01/2024 01:00,31/03/2024 23:59,5,1,16.67,Convert 50% of clients in short billing cycles to long term billing cycles
+277,4708,NULL,88016,3,01/04/2024 01:00,30/06/2024 23:59,4,1,0,GROWTH
+278,4708,8068,88016,2,01/04/2024 01:00,30/06/2024 23:59,4,1,0,INCREASE CLIENT PORTFOLIO TO 10000
+279,4708,NULL,88016,3,01/04/2024 01:00,30/06/2024 23:59,5,1,3,MAKING MONEY
+280,711,807,15091,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,"D1: Enhance software quality and reliability, upholding stringent budgetary discipline for efficient resource utilization."
+281,711,807,15091,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,D2: Elevate collaboration and knowledge-sharing while fostering employee feedback and recognition.
+282,711,807,15091,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,"D3: Attain comprehensive software optimization by enhancing scalability, expanding market presence, introducing high-value features, and reinforcement of engineering capabilities."
+283,711,NULL,108487,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Improve and create efficient Team processes
+284,711,NULL,108487,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Incorporate Values and Data-driven performance into new and existing Support practice
+285,711,NULL,108487,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,"Enable rapid, product-driven growth"
+286,711,NULL,47845,1,31/03/2024 21:00,29/06/2024 21:00,4,1,65,"Enable rapid, product-driven growth"
+287,711,NULL,47845,1,31/03/2024 21:00,29/06/2024 21:00,4,1,80,Incorporate Values and Data-driven performance into new and existing Support practices
+288,711,NULL,47845,1,31/03/2024 21:00,29/06/2024 21:00,4,1,60.56,Improve and create efficient Team processes
+289,2288,2343,120947,2,01/07/2024 01:00,30/10/2024 23:59,3,1,60,Setup content marketing strategy
+290,245,NULL,119899,3,01/04/2024 01:00,30/06/2024 23:59,4,1,41.67,Test objective
+291,711,NULL,43886,1,01/04/2024 01:00,30/06/2024 23:59,4,1,0,Improve and create efficient Team processes
+292,711,NULL,43886,1,01/04/2024 01:00,30/06/2024 23:59,4,1,0,Improve and create efficient Team processes
+293,711,NULL,43886,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Incorporate Values and Data-driven performance into new and existing Support practices
+294,711,NULL,43886,1,31/03/2024 22:00,30/06/2024 20:59,4,1,0,Improve and create efficient Team processes
+295,711,NULL,43886,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Improve and create efficient Team processes
+296,711,NULL,51149,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,"Enable rapid, product-driven growth"
+297,711,NULL,51149,1,01/04/2024 01:00,30/06/2024 23:59,4,1,0,Incorporate Values and Data-driven performance into new and existing Support practices
+298,711,NULL,51149,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Improve and create efficient Team processes
+299,711,NULL,51149,1,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Improve and create efficient Team processes
+300,711,NULL,43885,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,"Enable rapid, product-driven growth"
+301,711,NULL,43885,1,01/04/2024 01:00,30/06/2024 23:59,3,1,113.33,Improve and create efficient Team processes
+302,711,NULL,43885,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Incorporate Values and Data-driven performance into new and existing Support practices.
+303,711,785,86703,2,01/04/2024 01:00,30/06/2024 23:59,4,1,57.5,"Product Q2 D1 Enable seamless scalability of our product by focusing on digitization, design debt resolution, and system automation"
+304,711,785,86703,2,31/03/2024 22:00,30/06/2024 20:59,4,1,69,"Product Q2 D2: Foster purpose, innovation, and deliver high-quality results within specified deadlines"
+305,711,785,86703,2,01/04/2024 01:00,30/06/2024 23:59,4,1,69.11,Product Q2 D3: Drive sustainable commercial growth and maximize customer value by introducing customer driven features and services
+306,245,1249,119900,2,01/04/2024 01:00,30/06/2024 23:59,3,1,85,Improve customer satisfaction and loyalty
+307,245,1249,119900,2,31/03/2024 22:00,30/06/2024 20:59,3,1,33.33,Gather and act on customer feedback continuosly
+308,245,NULL,119900,1,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Test
+309,245,NULL,119900,1,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Test close
+310,7543,13999,128078,1,01/05/2024 10:00,31/05/2024 08:59,5,1,0,Facilitate client acquisition; Achieve 150 AAccs.
+311,7543,13999,128076,2,01/04/2024 01:00,30/06/2024 23:59,4,2,50,Increase market visibility
+312,7543,NULL,127758,1,01/05/2024 19:00,31/05/2024 17:59,5,1,0,"List total processed orders in may; Signed, returned and aftersales."
+313,7543,NULL,128076,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Increase sales
+314,7543,NULL,127780,1,01/04/2024 01:00,30/06/2024 23:59,3,1,100,"To improve backhaul capacity and performance-Kisii; Mwalimu PtP, Equity PtP and Nyanchwa PtP"
+315,7543,NULL,127780,3,30/04/2024 21:00,30/05/2024 21:00,3,1,105.26,To improve network stability and performance
+316,711,NULL,100264,1,31/12/2023 16:00,31/03/2024 14:59,5,1,0,Q1: Learn and master System Templating
+317,711,NULL,100264,1,31/12/2023 22:00,31/03/2024 20:59,5,1,0,Q1: Learn and master report building.
+318,711,433,79353,1,01/01/2024 01:00,31/03/2024 23:59,5,1,49,Payroll T3-Q1 Strengthen Compliance Across Africa
+319,1,NULL,119953,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Increase Retention
+320,5563,NULL,100584,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Monthly collection at 92%
+321,5563,10392,100587,2,31/03/2024 22:00,30/06/2024 20:59,5,1,0,MTDC @92%
+322,711,10832,19588,2,31/03/2024 22:00,30/06/2024 20:59,5,1,0,Success T1:Q2-1: Shorten the onboarding timeline from 18 to 14 days
+323,711,10829,128084,2,31/12/2023 19:00,31/03/2024 17:59,5,1,0,People T1: Q1- Improve time and cost efficiency across all criticial People Operations
+324,711,10829,128084,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,People T1:Q4 - Enhance operational excellence through process innovation and streamlined workflows
+325,711,10829,128084,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,People T2:Q4 - Define and embed performance culture by incorporating performance and data into everything we do
+326,711,10829,128084,2,30/09/2024 22:00,31/12/2024 20:59,3,1,40,People T3: Q4 - Attract and hire high-caliber bar raisers to support company growth and strengthen team capabilities
+327,711,1151,79353,2,01/01/2024 01:00,31/03/2024 23:59,2,2,100,Payroll T1-Q1: Strengthen Compliance Monitoring Across Africa
+328,2839,NULL,55094,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Cost control and efficiency
+329,2839,NULL,55094,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Profitability Enhancement
+330,2839,NULL,55094,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Credit/ Collections management
+331,2839,NULL,55094,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Customer Service Excellence
+332,7171,13428,125402,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve 20% market penetration
+333,7171,13428,125402,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve 20% market penetration
+334,7171,13428,125402,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve 20% market penetration
+335,7171,13428,125402,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve 20% market penetration
+336,7171,13428,125402,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve 20% market penetration
+337,7171,NULL,125402,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve 20% market Penetration
+338,7171,NULL,125402,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve 20% market Penetration
+339,7171,13428,125402,2,31/03/2024 22:00,30/06/2024 20:59,5,1,0,Achieve 20% market Penetration
+340,4480,13147,119066,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Jaza Star Recruitment & Onboarding
+341,6437,NULL,115924,3,01/10/2024 01:00,31/12/2024 23:59,3,2,0,"By December 2024, Madavi will have closed 500k USD in client revenues."
+342,6437,NULL,115924,3,01/10/2024 01:00,31/12/2024 23:59,3,2,0,"By December 2024, Madavi will have closed 500k USD in client revenues."
+343,711,10832,19588,2,01/04/2024 01:00,30/06/2024 23:59,2,2,42.86,Success Q2:1 Enhance Customer Advocacy through Client recommendation and Feedback
+344,6437,12064,126711,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve Aggressive Revenue Growth
+345,6437,NULL,115924,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve $50k Monthly Revenue Growth
+346,6437,12064,132471,2,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Optimize Sales Processes for Scalability
+347,6437,12064,132471,2,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Optimize Sales Processes for Scalability
+348,6437,12064,132471,2,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Optimize Sales Processes for Scalability
+349,6437,12064,132471,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Optimize Sales Processes for Scalability
+350,6437,12061,116090,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Increase Brand Visibility and Awareness
+351,6437,12061,116094,2,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Generate High-Quality Leads and Conversions
+352,6437,12061,116094,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Generate High-Quality Leads and Conversions
+353,6437,12061,116090,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Enhance Client Engagement and Retention
+354,6437,12064,126711,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Enhance Sales Pipeline Efficiency
+355,6437,12061,116088,2,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Elevate Brand Identity and Recognition
+356,6437,12061,116088,2,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Elevate Brand Identity and Recognition
+357,6437,12061,116088,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Elevate Brand Identity and Recognition
+358,7921,NULL,131914,3,01/04/2024 00:00,30/06/2024 22:59,5,1,0,Increase market visibility
+359,7543,NULL,127757,1,04/05/2024 19:00,30/06/2024 17:59,5,1,0,Increase hotspot penetration in town- office and Isana
+360,1248,1148,60155,2,30/09/2024 13:00,31/12/2024 11:59,3,1,0,Scrum 1 Commercial : To have revenue of +60 Million by Dec 2024 (Sept - Dec 2024)
+361,1248,1134,60155,2,30/09/2024 16:00,31/12/2024 14:59,3,1,0,Employee Retention : To ensure employee retention by 80% by Dec 2024
+362,1248,1148,60155,2,30/09/2024 16:00,31/12/2024 14:59,3,1,0,Scrum 1 : Productivity : To elevate quality of work 7/10 through creative and strategy trainings
+363,1248,NULL,37550,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,win at one pitch per quarter
+364,7921,14474,131908,2,01/04/2024 01:00,30/06/2024 23:59,5,2,0,Raise 4000 health champions
+365,5200,NULL,125056,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Reduce Cost
+366,5200,NULL,125056,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Reduce Cost
+367,5200,8731,125054,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Reduce the number employees
+368,4708,NULL,124913,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,SCALABILITY
+370,4708,7903,88016,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Bring 3 million
+371,2786,NULL,64571,3,01/04/2024 01:00,30/06/2024 23:59,3,1,85,Increase Market Visibility
+372,2786,NULL,64571,1,01/04/2024 01:00,30/06/2024 23:59,3,1,85,Hire a Chief of Staff
+373,7978,NULL,132574,1,31/12/2023 22:00,31/03/2024 20:59,5,1,0,xxx
+374,7978,14491,132574,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Retention
+375,1871,NULL,120023,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,To 100% transition to landscape restoration by end of 2024
+376,1871,NULL,120023,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,To 100% transition to landscape restoration by end of 2024
+377,1248,1148,24259,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Revenue Growth
+378,1248,1148,24259,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Operations -Products
+379,1248,1148,24259,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Operations - People
+380,2288,2343,132841,2,31/03/2024 22:00,30/06/2024 20:59,5,1,0,Increase advertising strategies to sustain growth
+381,7543,NULL,127861,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,To find out root cause of loss of signal; and recommend possible solutions
+382,7543,NULL,127861,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,To find out root cause of loss of signal; and recommend possible solutions
+383,7543,13999,127780,2,31/03/2024 10:00,31/05/2024 08:59,5,1,15.56,Increase market penetration; New fibre roll out-zone 1-Aloo and Eden park estates.
+384,1248,1149,22451,2,19/05/2024 18:00,30/12/2024 18:00,5,1,0,Media-People-Grow the team's skill and capability
+385,1248,1149,22451,2,18/05/2024 21:00,30/12/2024 21:00,5,1,0,Media-Product
+386,1248,1149,22451,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Media-Client
+387,1248,1149,22451,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Media-Commercial- Increase revenue by 40%
+388,1248,1148,29666,2,01/01/2024 18:00,30/12/2024 18:00,5,1,0,Scrum 2- Revenue
+389,1248,1148,29666,2,31/12/2023 21:00,30/12/2024 21:00,5,1,0,Scrum 2- Client Retention Rate
+390,1248,1148,29666,2,31/12/2023 21:00,30/12/2024 21:00,5,1,0,Scrum 2- Quality of Work
+391,1248,1148,29666,2,31/12/2023 21:00,30/12/2024 21:00,5,1,0,Scrum 2- Team Activities
+392,4708,NULL,124512,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Increase Market Visibility across Kenya
+393,4708,8068,124168,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Create demand in Kisumu
+394,711,NULL,101460,1,31/12/2023 22:00,31/03/2024 20:59,4,2,100,Acquire proficiency in executing Payroll operations within the system
+395,711,NULL,101460,1,01/01/2024 01:00,31/03/2024 23:59,5,2,0,Outline and document the Payroll Process
+396,711,NULL,101460,1,01/01/2024 01:00,31/03/2024 23:59,4,2,98,"Enhance the accuracy and timeliness of tax filings, retroactively addressing any discrepancies or omissions dating back to 2023"
+397,5200,NULL,125052,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,C1! Achieve 100 Million Kenyan Shillings by end year
+398,5200,14671,125054,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,D1!Achieve 50 Million Kenyan Shillings of company total revenue
+399,245,1249,119899,2,31/03/2024 22:00,30/06/2024 20:59,4,1,30,Test objective edit
+400,245,1249,119900,2,01/04/2024 01:00,30/06/2024 23:59,4,1,40,Sustainable CSS Practices
+401,245,1249,119899,2,31/03/2024 22:00,30/06/2024 20:59,4,1,50,Test child objective
+402,7821,NULL,129878,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Test - Increase market penetration
+403,7821,14347,132507,2,01/04/2024 01:00,30/06/2024 23:59,4,1,50,Insure 1 billboard for every bus station
+404,245,NULL,119900,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Enhance Overall Customer Experience
+405,245,NULL,119900,3,31/03/2024 19:00,30/06/2024 17:59,4,1,35.24,Improve Employee Training and Development in CSS
+406,245,1249,119900,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Achieve a customer effort score of less than 3 on a 5-point scale
+407,245,1249,119900,2,01/04/2024 01:00,30/06/2024 23:59,4,1,35.24,Ensure 100% of customer service staff complete advanced customer care training within the next quarter.
+408,1248,1148,104099,2,20/05/2024 01:00,31/07/2024 23:59,4,1,0,SCRUM 3: CLIENT RETENTION & SATISFACTION
+409,245,NULL,119900,1,31/03/2024 22:00,30/06/2024 20:59,5,1,0,Enhancement for customer experience
+410,245,NULL,119900,1,31/03/2024 22:00,30/06/2024 20:59,5,1,0,Complete this quarter's employee training
+411,245,NULL,119899,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Meet customer effort support criterial
+412,245,NULL,119899,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,qwerty
+413,1248,1146,104099,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,SCRUM 3 : QUALITY CREATIVE OUTPUT
+414,1248,1134,104099,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,SCRUM 3: REVENUE INCREASE
+415,1248,1146,104099,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,DEVELOP CASE STUDIES
+416,1248,1134,104099,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,SCRUM 3: PEOPLE UPSCALING SKILLS
+417,711,806,62158,2,01/04/2024 01:00,30/06/2024 23:59,5,1,35.43,Marketing T1- Q2: Increase ROI on Marketing Spend to achieve Profitability
+418,7543,13999,128078,2,01/04/2024 01:00,30/05/2024 23:59,3,1,258.33,Splicing and commissioning of Aloo line
+419,7543,NULL,127775,1,30/04/2024 18:00,30/05/2024 18:00,5,1,0,Improving customer experience
+420,7543,NULL,128078,1,30/04/2024 21:00,30/05/2024 21:00,4,1,55,Newly created accounts in may
+421,7543,NULL,127775,1,30/04/2024 21:00,30/05/2024 21:00,5,1,0,Total sales and support in may
+422,7543,NULL,127775,1,30/04/2024 21:00,30/05/2024 21:00,5,1,0,Total sales and support in may
+423,7543,NULL,127757,1,30/04/2024 15:00,30/05/2024 15:00,5,1,0,Newly created and supported accounts
+424,7543,NULL,127861,1,30/04/2024 21:00,30/05/2024 21:00,5,1,20,May performance
+425,7543,NULL,127861,1,30/04/2024 21:00,30/05/2024 21:00,3,1,100,Expansion; Aloo and Eden park
+426,7543,NULL,128077,1,30/04/2024 21:00,30/05/2024 21:00,5,1,9.09,Performance in May
+434,1248,NULL,88562,1,31/05/2024 21:00,30/07/2024 21:00,3,1,0,Complete Google Creative Certification
+435,1248,NULL,88562,1,02/06/2024 21:00,01/09/2024 21:00,3,1,0,Lead at least 1 creative training session
+436,2288,2343,132841,2,01/04/2024 01:00,30/06/2024 23:59,5,1,5,Implement digital tools to enhance marketing efficiency.
+437,1248,NULL,128191,1,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Project Management Course
+438,711,NULL,15098,1,01/04/2024 01:00,30/06/2024 23:59,2,2,100,Have Biometric installation done within two weeks
+439,711,NULL,15098,1,31/03/2024 22:00,30/06/2024 20:59,2,2,100,Make sure success and growth team credit is loaded on 2nd of every month.
+440,711,NULL,15098,1,01/04/2024 01:00,30/06/2024 23:59,2,2,0,Ensure we have a third biometric working 100% with the system
+441,711,NULL,15098,1,01/04/2024 01:00,30/06/2024 23:59,2,2,100,Have all physical ISO Requirement Sorted.
+442,711,NULL,15098,1,01/04/2024 01:00,30/06/2024 23:59,4,2,100,Propose a growth centered office Plan
+443,711,433,15098,2,31/03/2024 22:00,30/06/2024 20:59,4,2,89.07,"Profitability: Optimize people, tools, and processes for scalability to enable cost and time-efficient commercial growth"
+444,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,SALES GROWTH
+445,8186,14936,135058,2,30/06/2024 22:00,30/09/2024 20:59,3,1,0,SALES GROWTH
+446,5738,10548,102745,3,01/01/2024 22:00,31/12/2024 22:00,4,1,43.47,CUSTOMER SATISFACTION
+447,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Customer Acquisition Cost
+448,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Customer Acquisition Cost
+449,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Customer Acquisition Cost
+450,5738,NULL,102743,1,01/01/2024 00:00,31/12/2024 22:59,5,1,0,PRODUCTS LAUNCH
+451,5738,NULL,102743,3,01/01/2024 22:00,30/06/2024 22:00,4,1,35.02,PROCESS IMPROVEMENT
+452,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Sale Growth
+453,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Sale Growth
+454,7543,NULL,128078,1,31/05/2024 21:00,29/06/2024 21:00,4,1,100,Supported accounts
+455,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,INCREASE BRAND AWARENESS
+456,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,INCREASE BRAND AWARENESS
+457,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,DRIVE CUSTOMER ACQUISITION
+458,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,DRIVE CUSTOMER ACQUISITION
+459,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,BOOST SALES REVENUE
+460,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,BOOST SALES REVENUE
+461,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,RETURN ON MARKETING INVESTMENT (ROMI)
+462,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,BRAND AWARENESS
+463,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,DIGITAL ENGAGEMENT RATE
+464,8186,14932,135004,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,PROJECT COMPLETION RATE
+465,8186,14932,135004,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,PROJECT ROI
+466,8186,14932,135004,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,CLIENT SATISFACTION
+467,8186,14932,135004,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,PROJECT PROFITABILITY
+468,8186,14932,135004,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,CHANGE ORDER FREQUENCY
+469,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,SYSTEM UPTIME
+470,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,INCIDENT RESPONCE TIME
+471,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,FIRST CALL RESOLUTION RATE
+472,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,SYSTEM DOWNTIME
+473,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,NETWORK PERFORMANCE
+474,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,NETWORK PERFORMANCE
+475,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,PROJECT DELIVERY RATE
+476,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,VENDOR PERFORMANCE
+477,8186,14931,134934,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,CYBERSECURITY INCIDENT RATE
+478,8186,14922,135176,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,TOTAL SALES REVENUE
+479,8186,14922,135176,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,SALES GROWTH RATE
+480,8186,14922,135176,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,CUSTOMER RENTATION RATE
+481,8186,14922,135176,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,SALES PER EMPLOYEE
+482,8186,14922,135176,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,STOCK TURNOVER RATE
+483,8186,14922,135176,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,NEW PRODUCT SALES
+484,8186,15070,134952,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,ORDER FULFILLMENT RATE
+485,8186,15070,134952,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,CUSTOMER SATISFACTION SCORE
+486,8186,15070,134952,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,EMPLOYEE PRODUCTIVITY
+487,8186,15070,134952,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,WAREHOUSE UTILIZATION RATE
+488,8186,15070,134952,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,RETURN RATE
+489,8186,14937,135068,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,REVENUE GROWTH
+490,8186,14937,135068,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,MARKET SHARE
+491,8186,14937,135068,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,CUSTOMER ACQUISITION
+492,8186,14937,135068,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,CUSTOMER SATIFACTION
+493,8186,14937,135068,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,INVENTORY TURNOVER RATE
+494,8186,14937,135068,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,DELIVERY LEAD
+495,7543,13999,128077,1,01/04/2024 01:00,30/06/2024 23:59,3,1,166.67,Supported accounts
+496,5738,10548,102745,3,01/01/2024 20:00,31/12/2024 20:00,4,1,35.02,PROCESS IMPROVEMENT
+497,3559,NULL,67564,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,"Ensure 100% compliance with all county, national, and international HSE regulations."
+498,7543,NULL,127861,1,05/06/2024 21:00,07/06/2024 21:00,4,1,33.33,Supported accounts
+499,6425,NULL,119986,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Increase market visibility
+500,5738,NULL,102743,3,31/12/2023 21:00,30/12/2024 21:00,4,1,14.27,FINANCIAL CONTRIBUTION
+501,5738,NULL,102743,3,31/12/2023 23:00,30/12/2024 23:00,5,1,0,FINANCIAL CONTRIBUTION
+502,5738,NULL,102743,3,31/12/2023 23:00,30/12/2024 23:00,5,1,0,FINANCIAL CONTRIBUTION
+507,4708,NULL,124500,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,MARKET 10 PRODUCTS
+508,4708,NULL,124500,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,GROWTH AND DEVELEOPMENT
+509,7543,NULL,127757,3,01/07/2024 01:00,30/09/2024 23:59,3,1,74,Paybill short stickers for all routers
+510,711,433,79353,2,01/04/2024 01:00,30/06/2024 23:59,2,2,100,Payroll T2-Q2: Strengthen Internal Controls and Risk Management
+511,5048,NULL,111633,1,31/05/2024 23:00,29/06/2024 23:00,5,1,0,Add more articles
+512,7302,NULL,126853,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Increase Market visibility
+513,7302,13855,135960,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Conduct market campaigns in 5 provinces
+514,6227,NULL,113624,3,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Business Growth
+515,6227,11752,113631,2,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Improve Profitability
+516,1248,NULL,96165,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Learn 3D design
+517,1248,1900,79981,2,30/06/2024 19:00,30/09/2024 17:59,5,1,0,Pitch Per Industry Strategy
+518,1248,NULL,60155,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,New Business Acquisition
+519,1248,1146,124497,2,30/06/2024 19:00,30/09/2024 17:59,5,1,0,Grow Our Production Pipeline
+520,1248,NULL,60155,1,01/01/2024 01:00,30/12/2024 23:59,5,1,0,Revenue Growth
+521,1248,NULL,60155,1,01/01/2024 01:00,30/12/2024 23:59,5,1,0,Client Retention
+522,1248,NULL,60155,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Team Work
+523,1248,NULL,60155,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,Belva Digital Core Values
+524,1248,1146,124497,2,30/06/2024 19:00,30/09/2024 17:59,5,1,0,Elevate quality of creative work
+525,1248,1900,79981,2,30/06/2024 19:00,30/09/2024 17:59,3,1,0,Push for proactivity
+526,1248,1146,124497,2,30/06/2024 16:00,30/09/2024 14:59,5,1,0,Push for Proactivity
+527,1248,1900,79981,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Push for proactivity
+528,7204,13490,128392,2,31/05/2024 21:00,30/12/2024 21:00,4,1,0,Increase Market Visibility
+529,8186,14936,135058,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,increase brand awareness
+530,6726,NULL,124063,3,01/07/2024 01:00,30/09/2024 23:59,2,2,0,Revenue Mobilization
+531,6726,NULL,124063,3,01/07/2024 01:00,30/09/2024 23:59,2,2,0,Customer Focus Approach
+532,6726,NULL,124063,3,30/06/2024 22:00,30/09/2024 20:59,2,2,0,Market Expansion
+533,6726,NULL,124063,3,01/07/2024 01:00,30/09/2024 23:59,2,2,0,Tech Enhancement
+534,1,NULL,133293,3,01/07/2024 01:00,30/09/2024 23:59,3,1,83.33,Increase revenues by 50% by EOQ
+535,1,8128,119951,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Close 100 deals by EOQ
+536,7543,NULL,128078,1,31/05/2024 21:00,29/06/2024 21:00,5,1,0,Newly created accounts in June
+537,7543,NULL,127861,1,31/05/2024 21:00,29/06/2024 21:00,3,1,200,Newly created accounts in June
+538,7543,NULL,127757,1,31/05/2024 21:00,29/06/2024 21:00,4,1,100,Newly created accounts in June
+539,7543,NULL,128078,1,31/05/2024 21:00,29/06/2024 21:00,3,1,166.67,Supported accounts
+540,7543,NULL,127861,1,31/05/2024 21:00,29/06/2024 21:00,4,1,55.56,supported ACCOUNTS
+541,5867,11140,107729,2,23/06/2024 21:00,30/12/2024 21:00,5,1,0,Decrease turn over rates by end 2024
+542,6726,NULL,124063,3,30/06/2024 19:00,30/09/2024 17:59,3,1,0,Revenue Mobilization (P)
+543,6726,12603,129349,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Revenue Mobilization
+544,6726,12613,124067,2,30/06/2024 22:00,30/09/2024 20:59,3,1,0,Revenue Mobilization BDM
+545,6726,12612,124075,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Revenue Collection
+546,6726,NULL,124063,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Tech Enhancement (P)
+547,6726,NULL,124063,3,30/06/2024 22:00,30/09/2024 20:59,3,1,0,Customer Centric Focus
+548,8719,NULL,138839,3,31/03/2024 22:00,30/06/2024 20:59,5,1,0,"Operational Excellence (Team, systems, processes automation)"
+549,8719,NULL,138839,3,01/04/2024 01:00,30/06/2024 23:59,4,1,110,Complete and closeout on UKV by July 30th 2024
+550,8719,15411,137978,2,01/04/2024 01:00,30/06/2024 23:59,4,1,100,Develop an End Line survey for UKV
+551,711,806,62158,2,01/04/2024 01:00,30/06/2024 23:59,4,1,51.41,Marketing T2- Q2: Cultivate a High-Performance Culture for Exceptional Results
+552,711,806,62158,2,01/04/2024 01:00,30/06/2024 23:59,4,1,67.84,Marketing T3- Q2: Build a High-Quality Inbound and Outbound Lead Pipeline (Growth)
+553,5571,10779,125910,1,31/05/2024 18:00,29/09/2024 18:00,2,2,100,Leverage innovative ICT implentations
+554,5738,NULL,102745,3,31/12/2023 23:00,30/12/2024 23:00,3,1,71.65,ALIGNMENT WITH COMPANY VALUES
+555,5738,NULL,102745,3,01/01/2024 20:00,31/12/2024 20:00,4,1,52.6,LEARNING & GROWTH
+556,7543,NULL,128078,1,31/05/2024 21:00,29/06/2024 21:00,4,1,42.86,NEW INSTALLATIONS
+557,7583,NULL,132518,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Stock Model Product Launch
+558,5220,NULL,136169,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Test Objetctive
+559,7583,NULL,132518,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Stock Model Product Launch
+560,7583,14152,128456,2,01/07/2024 01:00,30/09/2024 23:59,3,1,0,Stock Model Product Launch
+561,711,11852,92070,2,31/03/2024 16:00,30/06/2024 14:59,2,2,73.82,FS T2 - Q2: Improves sales efficiency by reducing the sales cycle length (Performance Culture)
+562,711,11852,92070,2,31/03/2024 16:00,30/06/2024 14:59,2,2,83.41,FS T3 - Q2: Achieve the company's key Growth metrics (Growth)
+563,4708,NULL,88016,3,01/07/2024 01:00,30/09/2024 23:59,3,1,0,EXPANSION IN DIFFERENT COUNTRIES
+564,7543,NULL,128077,1,31/05/2024 21:00,29/06/2024 21:00,5,1,0,Supported Active Accounts
+565,7543,NULL,128077,1,31/05/2024 21:00,30/06/2024 21:00,5,1,0,newly created accounts
+566,7821,NULL,129879,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Increase market place GMV by 3x
+567,7204,NULL,124633,3,01/07/2024 01:00,30/09/2024 23:59,2,2,100,Expand across Africa
+568,7821,14347,132507,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Increase GMV marketplace to 1 million dollars
+569,7204,13491,124632,2,01/07/2024 01:00,30/09/2024 23:59,4,1,0,Increase Market Visibility
+570,5220,8786,136169,3,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Close 100 prospects by EOQ in Uganda
+571,5220,8786,136169,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Close 100 prospects in Kenya
+572,5220,8786,136169,3,30/06/2024 22:00,30/09/2024 20:59,4,1,80,Obtain 100 prospects
+573,7543,NULL,128078,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,NUMBER OF INSTALLATIONS
+574,7543,NULL,128077,1,01/07/2024 01:00,30/09/2024 23:59,4,1,0,NEWLY CREATED ACCOUNTS
+575,7543,NULL,127861,1,30/06/2024 22:00,30/09/2024 20:59,4,1,0,NEW ACCOUNTS CREATED IN JULY
+576,4708,NULL,88016,3,01/07/2024 01:00,30/09/2024 23:59,4,1,0,DEVELOPMET
+577,4708,NULL,88016,3,01/07/2024 01:00,30/09/2024 23:59,4,1,0,GO GLOBAL
+578,7921,NULL,131907,3,01/07/2024 00:00,29/12/2024 22:59,4,1,0,Improve community health and prevent infections
+579,7921,NULL,131907,3,01/07/2024 01:00,29/12/2024 23:59,4,1,0,"Reduce HAIs, AMR, and increase quality of care"
+580,7921,NULL,131907,3,01/07/2024 01:00,29/12/2024 23:59,4,1,0,Increase preparedness for health emergencies
+581,7921,14475,131909,2,01/07/2024 01:00,29/12/2024 23:59,5,1,0,Streamline organizational communications
+582,7921,14475,131909,2,01/07/2024 01:00,29/12/2024 23:59,5,1,12.5,"Increase awareness of DRASA - our work, our impact"
+583,8149,NULL,134639,3,30/06/2024 22:00,30/09/2024 20:59,4,1,0,Revenue
+584,8149,14765,134642,2,01/07/2024 01:00,30/09/2024 23:59,4,1,0,Maintain Employee to revenue cost
+585,7921,14475,131909,2,01/07/2024 01:00,29/12/2024 23:59,5,1,0,Increase use of data for communications
+586,7921,14475,131909,2,01/07/2024 01:00,29/12/2024 23:59,4,1,0,Develop media for public health education and training
+587,7921,14417,131907,2,01/07/2024 01:00,29/12/2024 23:59,4,1,0,Ensure sustainability
+588,7543,NULL,128078,1,01/07/2024 01:00,30/07/2024 23:59,5,1,0,SUPPORTED ACCOUNTS IN JULY
+589,7543,NULL,128077,1,01/07/2024 01:00,30/07/2024 23:59,5,1,0,TOTAL NUMBER OF SUPPORTS IN JULY
+590,7543,NULL,127861,1,01/07/2024 01:00,30/07/2024 23:59,5,1,0,TOTAL NUMBER OF SUPPORTED ACCOUNTS
+591,7543,NULL,127757,1,01/07/2024 01:00,30/07/2024 23:59,5,1,0,TOTAL NUMBER OF INSTALLATIONS IN JULY
+592,7921,14417,131907,2,01/07/2024 01:00,29/12/2024 23:59,4,1,0,Diversify funding streams
+593,7921,14417,131907,2,01/07/2024 01:00,29/12/2024 23:59,5,1,0,Improve Board Management
+594,4708,NULL,88016,3,01/07/2024 01:00,30/09/2024 23:59,4,1,46.67,MARKET STABILTY
+595,711,806,43887,2,31/12/2023 18:00,30/12/2024 18:00,5,1,0,D1 - Reduce CAC and Optimize Marketing Investments (Profitability)
+596,711,806,43887,2,31/12/2023 21:00,30/12/2024 21:00,5,1,0,D2 - Build a Self-Driven and High Output Work Ethic (Performance Culture)
+597,711,806,43887,2,31/12/2023 21:00,30/12/2024 21:00,5,1,0,D3 - Achieve the company's key Growth metrics (Growth)
+598,711,NULL,128129,1,15/07/2024 21:00,16/07/2024 21:00,3,1,0,Become the best marketing manager in the world
+599,7302,NULL,126861,1,01/01/2024 01:00,31/01/2024 23:59,5,1,0,tes
+600,7302,NULL,126861,1,01/01/2024 01:00,31/01/2024 23:59,5,1,0,tes
+601,711,NULL,43885,1,30/06/2024 22:00,30/09/2024 20:59,3,1,150,Q3: Improve and create efficient Team processes
+602,711,806,42013,1,30/06/2024 22:00,30/09/2024 20:59,3,2,100,Test Objective 1
+603,711,NULL,15094,1,30/06/2024 22:00,30/09/2024 20:59,4,2,10,CLIENTS CALLED 10
+604,2450,NULL,124309,1,01/07/2024 01:00,30/09/2024 23:59,4,1,0,Optimize Sales Operations for Improved Profitability (Profitability)Optimize Sales Operations for Improved Profitability (Profitability)
+605,711,NULL,117077,1,30/06/2024 18:00,01/09/2024 18:00,3,2,100,Increase partnerships visibility
+606,4707,7884,128707,2,01/07/2024 01:00,30/09/2024 23:59,4,1,0,Increase market Visibility
+607,4707,NULL,128707,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase market Visibility
+608,2288,NULL,132841,3,01/07/2024 01:00,30/09/2024 23:59,4,1,46.91,Increase and revenue
+609,2288,2343,142494,2,01/07/2024 01:00,30/09/2024 23:59,4,1,43.83,Maintain current customer base
+610,8826,NULL,140111,3,30/06/2024 22:00,30/09/2024 20:59,5,1,20.89,"To provide relevant content that is engaging, easy to access and easy to use."
+611,8826,NULL,140110,3,30/06/2024 16:00,31/12/2024 14:59,5,1,0,To grow revenue by maximizing profitability
+612,8826,NULL,140112,3,01/07/2024 01:00,30/09/2024 23:59,4,1,41.78,"To provide relevant content that is engaging, easy to access and easy to use."
+613,8826,NULL,140129,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,To develop partnerships that increase reach and profitability within target audience.
+614,8826,NULL,140129,3,01/07/2024 01:00,30/09/2024 23:59,4,1,0,To build a brand that drives commercial value.
+615,8826,NULL,140129,3,01/07/2024 01:00,30/09/2024 23:59,4,1,0,To increase profit per user.
+616,8826,NULL,140114,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,"To hire, develop and retain an agile and collaborative team - and leave the rest."
+617,8826,NULL,140129,3,01/07/2024 01:00,30/09/2024 23:59,5,1,4.83,To grow a captive Pan-African audience.
+618,711,433,79353,2,01/07/2024 01:00,30/09/2024 23:59,4,1,100,Payroll T1-Q3: Enhance Efficiency and Accuracy in Payroll Operations
+619,711,NULL,127056,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Enhance Product Knowledge
+620,711,NULL,127056,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Improve Ticket Management
+621,711,NULL,127056,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase Email Responsiveness
+622,7921,14417,131915,2,01/07/2024 01:00,29/12/2024 23:59,4,1,25,Support Office Operations
+623,7921,14417,131915,2,01/07/2024 01:00,29/12/2024 23:59,3,1,66.67,Ensuring smooth management operations
+624,7921,14417,131915,2,01/07/2024 01:00,29/12/2024 23:59,5,1,0,Support DRASA Team learning and development sessions
+625,7921,14417,131907,2,01/07/2024 01:00,29/12/2024 23:59,4,1,0,Support IPC Training Program Expansion
+626,7921,14417,131907,2,01/07/2024 01:00,29/12/2024 23:59,4,1,0,Support DRASA as a learning organization
+627,7921,14474,131908,2,01/07/2024 00:00,29/12/2024 22:59,5,1,6.67,"Train at least 15,000 Health Champions by the end of 2024 with at least 40% increase in knowledge among Health Champions after our engagement by the end of 2024."
+628,7921,14474,131908,2,01/07/2024 01:00,29/12/2024 23:59,2,2,0,"Improve capacity for evidence-based RCCE, surveillance, and forecasting among 40 One Health experts by the end of 2024"
+629,7921,14474,131908,2,01/07/2024 01:00,29/12/2024 23:59,2,2,0,Increase access to patient safety capacity building opportunities by end of 2024
+630,7921,14474,131908,2,01/07/2024 01:00,29/12/2024 23:59,5,1,0,"Explore the factors (socio-cultural, livelihoodcultural, religious and policies) limiting child poverty reduction in Bayelsa and Sokoto state before December 2025"
+631,7921,14474,131908,2,01/07/2024 00:00,31/12/2024 22:59,4,1,53.85,Raise public awareness about IPC and preventive practices through 2 campaigns by the end of 2024
+632,711,NULL,85994,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,Optimize Sales Operations for Improved Profitability (Profitability)
+633,711,NULL,85994,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Achieve $10k MMR and 120 FTEs
+634,711,NULL,85994,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Improves sales efficiency by reducing the sales cycle length
+635,4708,NULL,88016,3,01/07/2024 01:00,31/07/2024 23:59,5,1,0,INCREASE COUNTRIES
+636,8826,15693,140114,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,"To hire, develop and retain an agile and collaborative team - and leave the rest."
+637,711,785,86703,2,30/06/2024 16:00,30/09/2024 14:59,4,1,67.22,"Product D1: Enable seamless scalability of our product by focusing on digitization, design debt resolution, and system automation"
+638,711,785,86703,2,30/06/2024 16:00,30/09/2024 14:59,4,1,53.02,"Product D2: Foster purpose, innovation, and deliver high-quality results within specified deadlines"
+639,7204,NULL,124632,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Demo 1
+640,7204,NULL,124632,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Demo 1
+641,7204,NULL,124632,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Demo 1
+642,8719,NULL,138839,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Define UKV+ and the design of the additional pathways
+643,8719,NULL,138839,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Define UKV+ and the design of the additional pathways
+644,8719,NULL,138839,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Define UKV+ and the design of the additional pathways
+645,8719,NULL,138839,3,30/09/2024 19:00,31/12/2024 17:59,4,1,0,Enhance Fundability and Findability
+646,8719,NULL,138839,3,01/10/2024 01:00,31/12/2024 23:59,3,1,14,"Build Capacity to scale: Systems, People, Processes and Structure"
+647,8826,15692,140112,2,01/07/2024 01:00,31/12/2024 23:59,4,1,32.62,"To provide relevant content that is engaging, easy to access and easy to use."
+648,8826,15692,140112,2,30/06/2024 21:00,30/12/2024 21:00,3,1,58.67,Drive Downloads From Google Search
+649,8826,15692,140112,2,30/06/2024 18:00,30/12/2024 18:00,4,1,0,Grow Revenue from Premium Initiatives
+650,8894,NULL,140804,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase use of the system across Africa
+651,5220,NULL,146616,3,30/06/2024 22:00,30/09/2024 20:59,4,1,60,Launch Product X
+652,8719,15411,137978,2,01/07/2024 15:00,30/12/2024 15:00,4,1,40,"Having a smooth running system across the globe that allows for excellent planning, accurate data collection, timely data analysis and producing value adding reports for both internal and external stakeholders"
+653,711,433,79353,2,01/07/2024 01:00,30/09/2024 23:59,3,1,125,Payroll T2-Q3: Create and enhance scalable knowledge-sharing and management processes
+654,711,433,79353,2,30/06/2024 22:00,30/09/2024 20:59,4,1,32.5,Payroll T3-Q3: Transition Payroll Outsourcing Clients to Payroll Operations
+655,2450,NULL,145406,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase upsell and crossell revenue by 25%
+656,4186,NULL,140806,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Expand Product Listings and Reach
+657,2450,NULL,145406,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Reduce onboarding time by 50%
+658,2450,NULL,145524,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase upsell & cross sell revenue by 25%
+659,2450,NULL,145524,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Reduce onboarding time by 50%
+660,8495,NULL,135736,3,31/12/2023 21:00,30/12/2024 21:00,5,1,0,Operating Expenses minus Depreciation and Amortization within 20.5% of Sales. Budget Compliance-Managers to remian within agreed OPEX and CAPEX Budgets
+661,8495,NULL,135738,3,31/12/2023 22:00,31/03/2024 20:59,5,1,29.37,Total Sales Target of 3.55 Billion Kes Ex GOK Sales
+662,8826,15692,140104,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,Increase hyperlocal artist signups
+663,8826,15692,140112,2,01/10/2024 01:00,31/12/2024 23:59,3,1,14.49,Grow Hyperlocal Catalogue
+664,8826,15692,140104,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,70% of searches that result in download or stream
+665,7204,13486,124630,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Demo
+666,2288,NULL,147158,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,test kra objective
+667,2288,NULL,147158,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,test kra objective
+668,2288,2343,120947,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,Test archive objective
+669,5220,8786,134118,2,30/06/2024 22:00,30/09/2024 20:59,3,1,75,Ensure team takes up training initiatives
+670,5220,NULL,113819,3,01/07/2024 01:00,30/09/2024 23:59,4,1,75,Training Initiatives for all staff
+671,5220,NULL,113819,3,01/07/2024 01:00,30/09/2024 23:59,3,1,80,Expand globally
+672,5220,8786,134118,2,30/06/2024 22:00,30/09/2024 20:59,5,1,20,Research across 10 jurisdictions in Africa
+673,711,785,86703,2,30/06/2024 13:00,30/09/2024 11:59,4,1,46.67,Product D3: Drive sustainable commercial growth and maximize customer value by introducing customer driven features and services
+674,8719,15410,138844,2,30/06/2024 22:00,29/09/2024 20:59,5,1,0,Achieve Operational Excellence 2024 Goals - Move from 77% to 100% achievement
+675,3549,NULL,67345,1,01/04/2024 01:00,30/06/2024 23:59,5,1,0,To attain 100% on the set sales targets throughout the quarter (April - June)
+676,297,NULL,1749,3,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Defend & Scale up core revenue
+677,297,NULL,1747,3,30/06/2024 13:00,30/09/2024 11:59,5,1,0,Expand provider network & scale up adjacent revenue
+678,297,NULL,1775,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Build & Increase consumer business
+679,297,NULL,1745,3,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Expand to 5 other countries in Eastern & Western Africa
+680,297,NULL,1745,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Provide high customer excellence & satisfaction
+681,297,NULL,64434,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Build out high performing teams to attain business goals
+682,9348,NULL,145167,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,correct20 shillings
+683,1371,NULL,25732,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,ggggggg
+684,1371,NULL,25732,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,+306M YoY (24%)
+685,1371,NULL,25732,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,+306M YoY (24%)
+686,1371,NULL,25732,3,30/06/2024 22:00,30/09/2024 20:59,5,1,0,+306M YoY (24%)
+687,1371,1407,25725,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,#To Achieve >=15.4% of Ebitda #Better Manage Working Capital to achieve <=30% of Sales
+688,1371,1407,25725,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,#To Increase efficiency of operations by achieving at least 5 system integrations
+689,1371,1407,25725,2,01/07/2024 01:00,30/09/2024 23:59,2,2,0,#To Nature and grow Finance team #Elevate 2 leaders to FM position
+690,1371,NULL,142433,3,01/07/2024 01:00,30/09/2024 23:59,5,2,0,+306M YoY (24%)
+691,1371,1406,142433,2,30/06/2024 19:00,30/09/2024 17:59,5,2,0,Succession planning
+692,1371,1407,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,#To Increase efficiency of operations by achieving at least 5 system integrations
+693,1371,1407,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,#To Nature and grow Finance team #Elevate 2 leaders to FM position
+694,1371,1407,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,#To Increase efficiency of operations by achieving at least 5 system integrations
+695,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Improve Employee Engagement
+696,1371,1406,118292,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,HRMIS
+697,1371,1406,142062,2,30/06/2024 19:00,30/09/2024 17:59,5,1,0,HRMIS
+698,6644,NULL,118012,3,30/09/2024 22:00,31/12/2024 20:59,3,1,0,"To increase the number of projects and consultancies, Increase numbers of donors & partners, Increase number of counties, increase number of entrepreneurs & beneficiaries and increase in revenues"
+699,2288,2343,132841,2,01/07/2024 01:00,30/09/2024 23:59,2,2,0,Test 0001
+700,2288,2343,132841,2,01/07/2024 01:00,30/09/2024 23:59,3,1,90,Increase customer base
+701,7204,13489,128392,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase profitablilty by 2x
+702,3549,5513,88479,2,31/03/2024 19:00,30/06/2024 17:59,4,1,85,Ensure that you achieve 100% of your set sales targets in quarter two of 2024 (J1st April 2024 to 30th June 2024).  You will manage this by attaining your targets in each and everyone of your planned shifts.
+703,2288,2343,132841,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Test segment 001
+704,1371,1281,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Stock Management.
+705,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Top Talent Attraction and Retention
+706,1371,1407,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,#To Achieve >=15.4% of Ebitda #Better Manage Working Capital to achieve <=30% of Sales
+720,3549,5513,88479,2,31/03/2024 22:00,30/06/2024 20:59,5,1,-466.67,Ensure that you achieve 100% on customer engagement in the period under review (1st April 2024 to 30th June 2024).
+721,3549,5513,88479,2,31/03/2024 22:00,30/06/2024 20:59,3,1,325.83,Ensure 0 major complaints escalations to senior Airlines' offices and K.A.A. Conduct customer service surveys at least 1 in a month.1st April 2024 to 30th June 2024
+722,3549,5513,88479,2,31/03/2024 22:00,30/06/2024 20:59,3,1,425,Ensure that you attain the set target on your product and wrapping sales targets. Attain at least one product entry suggestion in the quarter.1st April 2024 to 30th June 2024
+723,3549,5513,88479,2,31/03/2024 22:00,30/06/2024 20:59,4,1,90,"Ensure punctuality while attending to work at all times, cloaking discipline has to be observed at all times. Adhere to company culture - DIATO.1st April 2024 to 30th June 2024"
+726,1371,1281,118292,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,stock management
+751,2288,2343,120947,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Sample 001
+752,3549,5513,88479,2,01/04/2024 01:00,30/06/2024 23:59,4,1,82,Ensure that you achieve 100% of your set sales targets in quarter one of 2024 (J1st April 2024 to 30th June 2024).  You will manage this by attaining your targets in each and everyone of your planned shifts.
+753,1248,1149,80716,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase total quarterly campaign budget under management incrementally by 10% every quarter
+754,1248,1149,80716,2,30/06/2024 16:00,30/09/2024 14:59,5,1,0,Complete at least 3 pitches every quarter with a win of at least one account
+755,9374,NULL,145528,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Treasury management
+756,1371,1407,25725,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,#To Achieve >=15.4% of Ebitda #Better Manage Working Capital to achieve <=30% of Sales
+757,1371,1407,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,#To Achieve >=15.4% of Ebitda #Better Manage Working Capital to achieve <=30% of Sales
+758,1371,1407,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,#To Increase efficiency of operations by achieving at least 5 system integrations
+759,1371,1407,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,#To Nature and grow Finance team #Elevate 2 leaders to FM position
+760,1371,1281,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Stock Management.
+761,1371,1281,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,On shelf availability
+762,1371,1281,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Distribution costs Management
+763,1371,NULL,142433,3,01/07/2024 01:00,30/09/2024 23:59,5,2,0,+306M YoY (24%)
+764,1371,2180,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Optimize procurement cycle time
+765,1371,2180,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Optimize procurement cost to get better prices by controlling the cost of ownership
+766,1371,2180,142433,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Optimize  procurement process to increase savings
+767,1371,1410,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Optimize the sales team to perform their duties by end of 2024
+768,1371,1410,142433,2,30/09/2024 19:00,31/12/2024 17:59,4,1,0,Standardize the retail experience to global standards
+769,1371,1410,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Improve stock variety to reduce lost sales by 60% and increase sales by 30%
+770,1371,8028,142433,2,30/09/2024 19:00,31/12/2024 17:59,4,1,0,"Improve net LFL sales by 83.66M, by driving numeric distribution & larger invoices"
+771,1371,8028,142433,2,30/09/2024 19:00,31/12/2024 17:59,4,1,0,Improve operations
+772,1371,8028,142433,2,30/09/2024 19:00,31/12/2024 17:59,4,1,0,"Driving consistent brand awareness, visibility and consumer recruitment"
+773,1371,1404,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Improve net LFL sales by X reducing inventory Shrinkage to less than 1% of sales/stock holding through incentives based on stock audit results
+774,1371,1404,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Championing  compliance to legal and regulatory standards/bodies
+775,1371,1404,142433,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Successful supporting and executing internal and external assurance processes
+776,1371,1407,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Launch X new stores / sales units generating XM
+777,1371,1407,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Archive for design packs
+778,1371,1407,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,"Supercharge facilities management, turn it into data-driven, commercial pillar of the business"
+779,1371,1406,63966,2,30/09/2024 22:00,31/12/2024 20:59,3,1,0,Top Talent Attraction and Retention
+780,1371,1406,63966,2,30/09/2024 19:00,31/12/2024 17:59,3,1,0,Improve Employee Engagement
+781,1371,1406,63966,2,30/09/2024 19:00,31/12/2024 17:59,3,1,0,Succession planning
+782,1371,1406,63966,2,30/09/2024 22:00,31/12/2024 20:59,3,1,0,Upskilling and Talent Development
+783,1371,1406,63966,2,30/09/2024 22:00,31/12/2024 20:59,3,1,0,HRMIS
+784,1371,1408,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Data Hardware & System
+785,1371,1408,142433,2,30/09/2024 22:00,31/12/2024 20:59,3,1,50,Integrations
+786,1371,1408,142433,2,30/09/2024 19:00,31/12/2024 17:59,4,1,0,Improve the online sales experience: Lintons App
+787,1371,NULL,142433,3,01/07/2024 01:00,30/09/2024 23:59,5,2,0,+306M YoY (24%)
+788,1248,NULL,80716,1,30/09/2024 22:00,31/12/2024 20:59,3,1,0,Complete AI for Marketing Course by 1st December 2024
+789,1248,1149,80716,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Pitch at least 1 product innovation to a client every month
+790,1248,1149,80716,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Media Savings
+791,1371,1406,142433,2,30/09/2024 19:00,31/12/2024 17:59,4,1,0,+20M
+792,8991,NULL,142338,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase Market visibility
+793,8991,15904,142340,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Grow Distribution
+794,3309,5165,154994,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase Sales
+795,5200,NULL,125054,3,01/01/2024 01:00,31/03/2024 23:59,5,1,40,Market SHare
+796,1248,1148,60155,2,30/09/2024 16:00,31/12/2024 14:59,3,1,0,Scrum 1 : Commercial : Participate in 2 Pitches per month with a 25% win rate i.e 8 pitches with 2 pitches won by Dec 2024
+797,1248,1148,60155,2,30/09/2024 16:00,31/12/2024 14:59,3,1,0,"Scrum 1 : Client : Build on relationships with clients, focus on physical meets ( 1 informal meet per client per quarter and atleast 1 formal meet per client per month)"
+798,1248,1148,60155,2,30/09/2024 13:00,31/12/2024 11:59,3,1,0,Scrum 1 : People: Growth and development within the scrum /company aligned with individual growth needs and scrum requirement .20% role reviews within the scrum annually.
+799,1248,1148,60155,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Scrum 1 : People : Team Activities
+800,1371,1406,142433,2,30/09/2024 22:00,31/12/2024 20:59,3,1,0,L&D Deliverable
+801,1371,NULL,142433,1,01/10/2024 01:00,31/12/2024 23:59,3,2,0,Dashboard
+802,8719,NULL,138838,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Mapping all the organisation that we can work or partner  with in the UKV+ by 21st of september
+803,1371,1406,63966,2,30/09/2024 01:00,30/12/2024 23:59,3,1,0,Improve Employee Engagement
+804,1371,1406,63966,2,01/10/2024 01:00,31/12/2024 23:59,3,1,140,Top Talent Attraction and Retention
+805,1371,1406,142433,2,30/09/2024 19:00,31/12/2024 17:59,3,1,0,L&D Deliverables
+806,1371,1407,142433,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Finance
+807,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+808,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+809,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+810,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+811,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+812,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+813,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+814,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+815,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+816,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+817,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+818,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+819,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+820,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+821,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+822,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+823,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+824,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+825,1371,1406,142433,1,30/09/2024 22:00,31/12/2024 20:59,3,1,0,stock management
+826,1371,1406,142433,2,01/10/2024 01:00,31/12/2024 23:59,3,2,0,stock management
+827,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+828,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+829,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,2,0,L&D Deliverables
+830,9800,NULL,152443,3,01/01/2024 01:00,31/03/2024 23:59,4,1,100,Marketplace at full PMF
+831,9800,NULL,152443,3,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Marketplace at full PMF
+832,9280,NULL,154827,3,01/10/2024 01:00,31/12/2024 23:59,3,1,50,Increase market visibility
+833,9800,NULL,152388,1,01/04/2024 01:00,30/06/2024 23:59,4,1,55.56,Working on  subscription models
+834,9800,NULL,152388,1,01/04/2024 01:00,30/06/2024 23:59,4,1,100,Analyze user behavior on the features launched
+835,7921,NULL,152349,1,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Complete the first draft of a digital strategy by September 2024
+836,2288,2343,132841,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Test Obj 11
+837,5220,NULL,113819,3,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Obtain 100 prospects in Uganda
+838,5220,8786,113820,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Obtain 100 prospects in Zambia
+839,5048,NULL,92642,3,01/10/2024 01:00,31/12/2024 23:59,3,1,60,Raise 500M in revenue
+840,5048,8562,92642,2,01/10/2024 01:00,31/12/2024 23:59,3,1,60,School based programme
+841,2395,2431,155586,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Increase organisation talent and skills.
+842,2395,NULL,155247,3,01/10/2024 01:00,31/12/2024 23:59,3,1,35,Enter the Brazilian market with new products.
+843,1248,NULL,125066,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Build pitching capacity
+844,1248,1900,79981,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Identify existing accounts with room for production
+845,1248,1900,79981,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Identintify opportunities for proactive work
+846,1248,1900,79981,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Highlight & train the team on industry trends
+847,1248,NULL,109077,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,"Product: Training and Capability Building on Strategy, Data and Insights"
+848,9835,NULL,154497,3,01/10/2024 01:00,31/12/2024 23:59,4,1,1.04,Increase sales revenue by 25%.
+849,9835,17289,154497,2,01/10/2024 01:00,31/12/2024 23:59,3,1,7.27,Increase overall sales revenue by 25%
+850,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,L&D Deliverables
+851,1371,1406,118292,2,01/10/2024 01:00,31/12/2024 23:59,2,2,0,L&D Deliverables
+852,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,4,1,85.71,Induction - Neema Vivian
+853,1371,1404,118292,2,01/07/2024 01:00,30/09/2024 23:59,2,2,100,Operations Induction
+854,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,Vivian Neema Induction - HR
+855,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,IT Orientation and Set up
+856,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,ECP
+857,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,Administration
+858,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,Operations overview
+859,1371,1406,142433,2,01/07/2024 01:00,30/09/2024 23:59,5,2,0,Product Induction
+860,1248,1147,22457,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Statutory and Compliance
+861,1248,1147,22457,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Cashflow Management and Planning
+862,1248,1147,22457,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Reporting
+863,1248,1147,22457,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Auditing
+864,1248,1147,22457,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Cost Reduction ( OPEX)
+865,2288,2339,156897,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,A new company
+866,2288,NULL,155131,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,A second company
+867,2288,NULL,156897,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0.12,test obj 1
+868,4669,NULL,87997,3,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Increase market visibility
+869,4669,NULL,87985,3,01/10/2024 00:00,31/12/2024 22:59,3,1,0,Reduce weekly churn from 7.5% to 6% (Product & CX)
+870,7921,14478,131914,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Optimize Employee Engagement and Satisfaction
+871,7921,14478,131914,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Enhance Leadership Development
+872,7921,14478,131914,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Facilitate Performance Management
+873,7921,14478,131914,2,01/07/2024 01:00,31/12/2024 23:59,4,1,38.42,Support Staff Compensation and Benefits
+874,696,NULL,100852,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Documentation
+875,696,NULL,100852,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Compliance
+876,696,NULL,100852,1,01/07/2025 01:00,30/09/2025 23:59,3,1,0,Office equipment and supply management
+877,696,NULL,100852,1,01/07/2025 01:00,30/09/2025 23:59,3,1,0,Support in HR and administrative support within set deadlines
+878,696,NULL,100852,1,01/07/2025 01:00,30/09/2025 23:59,3,1,0,Tracking office expenditures against the budgets and finding cost-saving opportunities
+879,696,NULL,100852,1,01/07/2025 01:00,30/09/2025 23:59,3,1,0,Internal customer satisfaction (employees)
+880,9835,17292,154511,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase case fill rate from the current 60& to 95%
+881,9835,17291,154510,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Grow the net margin to at least 5%
+882,9835,17291,154510,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Create a budget and track fortnightly
+883,9835,17291,154510,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,To reduce average collection days to  45 days from the current 60 days  on statement
+884,9835,17292,154511,3,30/06/2024 22:00,30/09/2024 20:59,5,1,0,To ensure 98% of customer orders are delivered by 48hours from the current 72 hours(Nairobi orders) and 72 hours for upcountry orders.
+885,9835,17289,154497,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Begin tracking merchandizing Activities and ensure execution is maintained at 90%
+886,9835,17292,154511,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,To ensure 98% of customer orders are delivered by 48hours from the current 72 hours(Nairobi orders) and 72 hours for upcountry orders.
+887,9835,17289,154497,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase the number of SKUs/Products by 25% to ensure we have goods that can do well in GT so as to increase the sales turnover
+888,1371,NULL,142433,3,01/01/2024 01:00,31/03/2024 23:59,4,1,93.33,kkkkkkk
+889,4669,NULL,87985,3,01/07/2024 01:00,30/09/2024 23:59,4,1,35.73,"Objective: Teach 1,500 lessons in a single week"
+890,2395,2430,155586,2,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Testing currency
+891,7921,17179,145908,2,31/07/2024 23:00,31/12/2024 21:59,5,1,0,Increase Awareness on AMR
+892,7921,17179,145908,2,01/08/2024 00:00,31/12/2024 22:59,5,1,0,Research and Innovation
+893,7921,17179,145908,2,31/07/2024 23:00,31/12/2024 21:59,5,1,0,Raise AMR champions
+894,4669,NULL,87985,3,01/10/2024 00:00,31/12/2024 22:59,4,1,11.71,Self-development to produce outstanding learning experiences
+895,4669,NULL,87985,3,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Launch 4.7* ave. rated language learning app.
+896,4669,7856,87997,2,30/06/2024 22:00,30/09/2024 20:59,3,1,117.13,Establish world-class customer support.
+897,4669,7856,87997,2,30/06/2024 20:00,30/09/2024 18:59,4,1,93.35,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6."
+898,1371,1404,142433,2,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Operations
+899,1371,1404,25668,2,01/10/2024 01:00,31/12/2024 23:59,4,1,3.12,Operations
+900,1371,1406,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Top Talent Attraction and Retention
+901,2395,NULL,155586,3,01/10/2024 01:00,31/12/2024 23:59,4,1,5,Test 1 2 3
+902,2288,2343,132841,2,01/10/2024 01:00,31/12/2024 23:59,3,1,24,Adding new objective with 4 KRs
+903,1371,1406,142433,1,30/09/2024 19:00,31/12/2024 17:59,3,1,114.58,L&D Deliverables
+904,4669,17805,87985,2,01/07/2024 00:00,30/09/2024 22:59,5,1,0,Position TopSet to raise a Seed round in 2025.
+905,4669,17810,133462,1,30/09/2024 23:00,31/12/2024 21:59,4,1,0,Successful integrated learning web app launch
+906,4669,17810,133462,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Objective: Launch the world’s best Nigerian language curriculum for kids
+907,4669,17810,133462,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,"Produce comprehensive and high-quality Igbo, Yoruba, and Nigerian Pidgin Language courses"
+908,4669,7853,139393,2,01/07/2024 00:00,30/09/2024 22:59,5,1,0,Amplify Our Social Media Presence and Engagement.
+909,4669,7853,139393,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Brand Refresh & Enhance Communication Strategies.
+910,4669,7853,139393,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Achieve record breaking quality lead generation.
+911,4669,17763,87997,2,30/06/2024 23:00,30/09/2024 21:59,4,1,75,Drive team to exceptional performance.
+912,4669,17763,87997,2,01/07/2024 00:00,30/09/2024 22:59,4,1,33.33,Enhance processes and benefits to ensure TopSet applicants and team feel valued.
+913,4669,17809,87996,1,01/07/2024 00:00,30/09/2024 22:59,4,1,31.83,Propel Tutor Growth and Excellence in World-Class Tutoring.
+914,4669,7852,87986,2,01/07/2024 01:00,30/09/2024 23:59,4,1,80.56,Create a culture of clear communication for stable product development.
+915,4669,7852,87986,2,01/07/2024 01:00,30/09/2024 23:59,4,1,56.25,Launch 4.7* ave. rated language learning app.
+916,4669,7852,87986,2,01/07/2024 01:00,30/09/2024 23:59,4,1,63.33,Increase D2P sales conversion from 0.03% to 1%.
+917,4669,7852,87986,2,01/07/2024 01:00,30/09/2024 23:59,4,1,53.33,Lay foundation for Q4 creation of iOS and Android apps.
+918,4669,7852,87986,2,01/07/2024 01:00,30/09/2024 23:59,4,1,100,Drive CX & Sales productivity gains.
+919,4669,7854,152292,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Establish a sustainable and high impact Sales team culture.
+920,4669,7854,152292,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,"Record-breaking sales performance with 1,600 new sales in Q3."
+921,4669,7854,152292,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,World-class sales team hiring and coaching.
+922,1248,NULL,119906,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,"Increase content performance by 10% (reach, engagements, video views etc)"
+923,1248,1148,119906,1,30/09/2024 22:00,31/12/2024 20:59,3,1,0,Streamline influencer engagement processes
+924,1248,NULL,119906,1,01/10/2024 01:00,31/12/2024 23:59,3,1,0,Ensuring KPIs are met across all influencer campaigns.
+925,7921,14475,152349,2,01/07/2024 01:00,31/12/2024 23:59,3,1,100,Develop media for public health education and training
+926,9835,17289,154497,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Maintain on shelf availability at 100%
+927,9835,17289,154497,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Improve product visibility
+928,4669,NULL,87997,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Enhance Communication Strategies
+929,4669,NULL,112099,1,01/07/2024 01:00,30/09/2024 23:59,3,1,110.77,Establish world-class customer support
+930,4669,NULL,87998,1,01/07/2024 00:00,30/09/2024 22:59,4,1,83.61,Establish world-class customer support
+931,4669,NULL,112099,1,01/07/2024 01:00,30/09/2024 23:59,3,1,116.77,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+932,4669,NULL,87998,1,01/07/2024 00:00,30/09/2024 22:59,4,1,83.85,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+933,4669,NULL,144810,1,01/07/2024 01:00,30/09/2024 23:59,4,1,98.17,Establish world-class customer support
+934,4669,NULL,144810,1,01/07/2024 01:00,30/09/2024 23:59,4,1,58.81,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+935,4669,NULL,111036,1,01/07/2024 01:00,30/09/2024 23:59,4,1,109.04,Establish world-class customer support
+936,4669,NULL,87993,1,01/07/2024 00:00,30/09/2024 22:59,5,1,0,Enhance Tutor Experience and Performance
+937,4669,NULL,111036,1,01/07/2024 01:00,30/09/2024 23:59,4,1,96.44,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+938,4669,NULL,87993,1,30/06/2024 23:00,30/09/2024 21:59,4,1,60.42,Optimize Product Development and Delivery
+939,4669,NULL,87993,1,30/06/2024 23:00,30/09/2024 21:59,4,1,79.29,Foster a High-Performing Product Team Culture
+940,4669,NULL,87993,1,30/06/2024 23:00,30/09/2024 21:59,4,1,50,Self-development
+941,4669,NULL,87993,1,01/07/2024 00:00,30/09/2024 22:59,4,1,88.89,Enhance Tutor Experience and Performance
+942,4669,7853,139393,2,01/07/2024 00:00,30/09/2024 22:59,5,1,0,Amplify Our Social Media Presence and Engagement
+943,4669,NULL,113279,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Contribute to the foundation for Q4 creation of iOS and Android apps
+944,4669,NULL,113279,1,01/10/2024 01:00,31/12/2024 23:59,3,1,25,Launch 4.7* Ave. rated language learning app
+945,4669,7853,139393,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Brand Refresh & Enhance Communication Strategies
+946,4669,NULL,113279,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Create a culture of clear communication for stable product development
+947,4669,NULL,87990,1,01/07/2024 00:00,30/09/2024 22:59,4,1,66.67,Enhance Communication Strategies
+948,4669,7855,87997,2,01/07/2024 01:00,30/09/2024 23:59,2,2,100,100% response rate on all customer support channels between 8 am and 2 am WAT within target SLAs
+949,4669,NULL,92711,1,01/07/2024 01:00,30/09/2024 23:59,4,1,106.37,Objective: Establish world-class customer support
+950,4669,7853,139393,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Obj 1: Amplify Our Social Media Presence and Engagement
+951,7921,14417,131915,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,On time completion of adhoc tasks
+952,2288,2343,132841,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,New product & upgrade awareness
+953,9835,17289,154497,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Promotion Tracking
+954,4669,NULL,87990,1,01/07/2024 01:00,30/09/2024 23:59,4,1,33.33,Elevate Brand Recognition
+955,4669,NULL,87990,1,01/07/2024 01:00,30/09/2024 23:59,4,1,33.33,Enhance Visual content quality
+956,4669,NULL,87990,1,01/07/2024 01:00,30/09/2024 23:59,4,1,33.33,Objective:  Self-development to produce outstanding learning experiences
+957,711,806,62158,2,30/06/2024 22:00,30/09/2024 20:59,5,1,0,Marketing T1- Q3: Increase ROI on Marketing Spend to achieve Profitability
+958,711,806,62158,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Marketing T2- Q3: Cultivate a High-Performance Culture for Exceptional Results
+959,711,806,62158,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Marketing T3- Q3: Build a High-Quality Inbound Lead Pipeline (Growth)
+960,4669,NULL,92711,1,01/07/2024 01:00,30/09/2024 23:59,4,1,98.65,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+961,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,4,1,97.84,Establish world-class customer support
+962,4669,NULL,144812,1,01/07/2024 01:00,30/09/2024 23:59,4,1,80.56,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+963,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+964,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+965,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+966,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+967,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+968,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+969,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+970,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,5,2,0,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+971,4669,7855,144812,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Establish world-class customer support
+972,4669,NULL,87989,1,01/07/2024 01:00,30/09/2024 23:59,4,1,32.89,Record-breaking sales performance with 150 new sales in Q3
+973,4669,7854,141346,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Increase Sales Conversion Rate from0% - 10%
+974,4669,NULL,141346,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Achieve continuous double digit in New Sales
+975,4669,NULL,141346,1,30/06/2024 23:00,30/09/2024 21:59,5,1,0,Build Strong Relationships with Clients and Prospects
+976,4669,NULL,87989,1,01/07/2024 01:00,30/09/2024 23:59,4,1,50,Support the creation of a sustainable and high impact Sales team culture
+977,4669,NULL,87989,1,01/07/2024 01:00,30/09/2024 23:59,4,1,90,Becoming my best self
+978,4669,NULL,109449,1,01/07/2024 01:00,30/09/2024 23:59,4,1,66.67,Establish a sustainable and high impact Sales team culture
+979,4669,NULL,109449,1,30/06/2024 23:00,30/09/2024 21:59,4,1,47.5,Record-breaking sales performance with 100 new sales in Q3
+980,4669,NULL,109449,1,01/07/2024 01:00,30/09/2024 23:59,4,1,50,Personal development and sales coaching
+981,4669,NULL,141346,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Achieve continuous double digit in New Sales
+982,4669,NULL,141346,1,01/07/2024 00:00,30/09/2024 22:59,5,1,0,Build Strong Relationships with Clients and Prospects
+983,4669,NULL,99901,1,01/07/2024 01:00,30/09/2024 23:59,4,1,96.67,Establish a sustainable and high impact Sales team culture
+984,4669,NULL,142495,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Establish a sustainable and high impact Sales team culture
+985,4669,NULL,99901,1,01/07/2024 01:00,30/09/2024 23:59,4,1,88.53,Record-breaking sales performance with 100 new sales in Q3
+986,4669,NULL,142495,1,30/06/2024 22:00,30/09/2024 20:59,4,1,91.9,72 new sales in Q3
+987,4669,NULL,99901,1,01/07/2024 01:00,30/09/2024 23:59,4,1,50,Personal development
+988,4669,NULL,142495,1,01/07/2024 01:00,30/09/2024 23:59,4,1,66.67,Personal development and training
+989,4669,NULL,112672,1,01/07/2024 00:00,30/09/2024 22:59,4,1,100,Prioritize customer engagement and timely follow-ups
+990,4669,NULL,112672,1,01/07/2024 00:00,30/09/2024 22:59,3,1,171.39,Achieve consistent and high sales performance
+991,4669,NULL,112672,1,01/07/2024 01:00,30/09/2024 23:59,4,1,66.67,Maintain work-life balance and professional development
+992,10001,17568,156191,2,01/10/2024 00:00,31/12/2024 23:59,4,1,0,Increase market visibilty
+993,10001,NULL,156191,1,01/07/2024 01:00,30/09/2024 23:59,2,2,0,Increase market visibility
+994,9800,17162,152395,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Increase customer acquisition activities
+995,9800,17162,152395,2,30/09/2024 16:00,31/12/2024 14:59,4,1,0,Increase onboarding efficiency
+996,2288,NULL,157824,1,01/01/2024 01:00,31/03/2024 23:59,5,1,0,Obj 23
+997,4669,NULL,87997,1,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Becoming my Best Self
+998,9281,16507,159621,2,01/10/2024 00:00,31/12/2024 22:59,3,1,18.72,Raise 250 Million naira
+999,9281,16507,159621,2,01/10/2024 00:00,31/12/2024 22:59,3,1,83.33,Build sustained relationships with existing and new donors
+1000,9281,16507,159621,3,30/09/2024 23:00,31/12/2024 21:59,3,1,100,Win with Champions
+1001,9281,NULL,152598,3,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Win with Champions
+1002,8388,14958,152472,2,01/10/2024 00:00,31/12/2024 22:59,4,1,4.33,Raise N500MM in Revenue
+1003,8388,14958,152472,2,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Build sustained relationships with existing and new donors
+1004,8388,14958,152472,2,30/09/2024 23:00,31/12/2024 21:59,4,1,0,Enabling Process and Systems to deliver 2024
+1005,8388,14958,152472,2,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Build a performance driven organization
+1006,8388,14958,152472,2,30/09/2024 23:00,31/12/2024 21:59,4,1,0,Expansion to New Countries: Define Scope and Recommendation Approved
+1007,8388,14958,138261,2,30/09/2024 21:00,31/12/2024 19:59,4,1,0,Raise N500MM in Revenue
+1008,8388,14958,138261,2,30/09/2024 23:00,31/12/2024 21:59,4,1,0,Build sustained relationships with existing and new donors
+1009,8388,14958,138261,2,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Enabling Process and Systems to deliver 2024
+1010,8388,14958,138261,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Build a Performance Driven Organization
+1011,8388,14958,138261,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Expansion to New Countries: Define Scope and Recommendation Approved
+1012,8388,14958,135160,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Raise N500MM in Revenue
+1013,8388,14958,135160,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Build sustained relationships with existing and new donors
+1014,8388,14958,135160,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Enabling Process and Systems to deliver 2024
+1015,8388,14958,135160,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Build a Performance Driven Organization
+1016,7921,14474,131908,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Strengthen our health security program through partnership and collaboration with government and civil society groups
+1017,7921,14474,131908,2,01/07/2024 01:00,31/12/2024 23:59,4,1,50,Facilitate participation in external conferences and events
+1018,4669,NULL,87999,1,01/07/2024 01:00,30/09/2024 23:59,4,1,91.67,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+1019,4669,NULL,144812,1,01/07/2024 01:00,30/09/2024 23:59,4,1,101.1,Establish world-class customer support
+1020,4669,NULL,128600,1,01/10/2024 01:00,31/12/2024 23:59,3,1,13.47,Produce comprehensive and high-quality Igbo Language courses
+1021,4669,NULL,128600,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Launch the world’s best Igbo language curriculum for kids
+1022,4669,NULL,128600,1,01/10/2024 01:00,31/12/2024 23:59,3,1,14.29,Self-development to produce outstanding learning experiences
+1023,4669,NULL,127686,1,01/07/2024 01:00,30/09/2024 23:59,3,1,121.58,Establish world-class customer support
+1024,4669,NULL,127686,1,01/07/2024 01:00,30/09/2024 23:59,3,1,130,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+1025,9800,17162,152395,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Improve customer support quality
+1026,9800,17162,152395,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,Boost customer retention rate
+1027,4669,7853,139393,2,01/07/2024 01:00,30/09/2024 23:59,5,1,0,Amplify Our Social Media Presence and Engagement
+1028,4669,NULL,128600,1,01/10/2024 01:00,31/12/2024 23:59,4,2,0,bjhadfhkasdf;.lZDHK vbzrfgevnascZKLxdghvn
+1029,4669,NULL,138070,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Produce comprehensive and high-quality Adult Yorùbá language courses
+1030,4669,NULL,138070,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Launch the world’s best Yorùbá language curriculum for kids
+1031,2616,NULL,146590,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Test whether dodger duck is assigned
+1032,4669,NULL,138070,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Self-development to produce outstanding learning experiences
+1033,4669,NULL,108545,1,01/07/2024 01:00,30/09/2024 23:59,4,1,100,Boost Lead Conversion Efficiency
+1034,4669,NULL,108545,1,01/07/2024 01:00,30/09/2024 23:59,4,1,100,Balancing Work-Life Commitments
+1035,4669,NULL,108545,1,01/07/2024 01:00,30/09/2024 23:59,4,1,100,Enhancing Personal development
+1036,4669,NULL,111075,1,01/07/2024 01:00,30/09/2024 23:59,4,1,71.11,Establish world-class customer support
+1037,4669,NULL,111075,1,01/07/2024 01:00,30/09/2024 23:59,4,1,60,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+1038,4669,NULL,111075,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive retention with CX Excellence
+1039,10001,NULL,159666,3,01/01/2025 01:00,31/03/2025 22:59,3,1,0,Highest sellers of EVs per country in Africa
+1040,4669,7856,87997,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive retention with CX Excellence
+1041,4669,7856,87997,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Optimize customer feedback collection to drive new course improvements
+1042,4669,7856,87997,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Ensure consistent post-rebrand messaging to customers
+1043,4669,17763,87997,2,01/10/2024 01:00,31/12/2024 23:59,4,1,1.67,Build a High-Performance Culture to Support 2x Growth
+1044,4669,17763,87997,2,01/10/2024 01:00,31/12/2024 23:59,4,1,1.67,Align HR Processes with the Successful Brand Relaunch
+1045,7921,18002,155323,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Build capacity of PHC healthcare workers on Hand Hygiene in Ogun State and Lagos State
+1046,7921,18002,155323,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Patient Safety Promotion (WPSD)
+1047,7921,18002,155323,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,"IPC Education Advocacy (DRASA Day, The Orange Rounttable Conversations)"
+1048,7921,18002,155323,2,01/07/2024 01:00,31/12/2024 23:59,5,1,0,Turn A State Orange Project
+1049,1371,1406,142433,2,01/04/2024 01:00,30/06/2024 23:59,4,2,62.5,vgfggg
+1050,4669,17809,87996,2,01/10/2024 01:00,31/12/2024 23:59,4,1,1.1,Propel Tutor Growth and Excellence in World-Class Tutoring
+1051,4669,NULL,87993,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Propel Tutor Growth and Excellence in World-Class Tutoring
+1052,4669,NULL,87993,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Launch the World’s Best Nigerian Language Curriculum for Kids
+1053,4669,NULL,87993,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Foster a High-Performing Product Team Culture
+1054,4669,NULL,87993,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Self-development
+1055,9985,NULL,155894,3,01/10/2024 01:00,31/12/2024 23:59,4,1,11.67,Customer Retention
+1056,9985,17528,155878,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Reduce Abandoned Calls
+1057,4669,NULL,102600,1,01/07/2024 01:00,30/09/2024 23:59,4,1,97.75,Establish world-class customer support
+1058,4669,NULL,102600,1,01/07/2024 01:00,30/09/2024 23:59,4,1,50.21,"Build the Cult of The Customer, reducing weekly churn from 7.5% to 6%"
+1059,1371,1406,142433,2,01/01/2024 01:00,31/03/2024 23:59,5,2,58.75,vvvvv
+1060,4669,NULL,108545,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Increase conversion rate from 10.1% to 15%
+1061,4669,NULL,108545,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Increase sales Performance by the end of Q4
+1062,4669,NULL,108545,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Be my best self
+1063,1371,1406,142433,2,30/09/2024 22:00,31/12/2024 20:59,4,1,0,A
+1064,6383,12327,117324,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Increase Margins
+1065,1371,1406,142433,1,30/09/2024 13:00,31/12/2024 11:59,3,1,50,Talent Acquisition
+1066,6383,NULL,117324,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Customer backorder rate
+1067,1371,1406,142433,2,30/09/2024 13:00,31/12/2024 11:59,3,1,25.93,Do A
+1068,4669,NULL,144810,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Decrease weekly churn from 6.1% to 5% (average weekly churn in Nov)
+1069,4669,NULL,144810,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Optimise Customer Feedback Collection & Brand Refresh
+1070,4669,NULL,133462,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Self-development to produce outstanding learning experiences
+1071,4669,NULL,144810,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive CX Excellence and Personal Growth
+1072,1371,NULL,25732,3,01/10/2024 01:00,31/12/2024 23:59,4,1,12.5,Increase sales by 20M
+1073,1371,1406,63966,2,01/10/2024 01:00,31/12/2024 23:59,3,1,25,Top talent attraction and retention
+1074,4669,NULL,92711,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Decrease weekly churn from 6.1% to 5% (average weekly churn in Nov)
+1075,4669,NULL,92711,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Optimise Customer Feedback Collection & Brand Refresh
+1076,4669,NULL,92711,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive CX Excellence and Personal Growth
+1077,4669,NULL,158744,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Increase conversion rate from 0% to 7%
+1078,4669,NULL,158744,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Objective: Increase sales Performance by the end of Q4
+1079,4669,NULL,158744,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Self Development
+1080,4669,NULL,144812,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Decrease weekly churn from 6.1% to 5% (average weekly churn in Nov)
+1081,4669,NULL,144812,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Optimise Customer Feedback Collection & Brand Refresh
+1082,4669,NULL,144812,1,30/09/2024 23:00,31/12/2024 21:59,4,1,0,Drive CX Excellence and Personal Growth
+1083,4669,NULL,95121,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Improve Sales Performance to Meet Target
+1084,4669,NULL,112099,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Decrease weekly churn from 6.1% to 5% (average weekly churn in Nov)
+1085,4669,NULL,112099,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Optimise Customer Feedback Collection & Brand Refresh
+1086,4669,NULL,112099,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive CX Excellence and Personal Growth
+1087,4669,NULL,95121,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Continuous Learning and Personal Development
+1088,4669,NULL,111036,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Decrease weekly churn from 6.1% to 5% (average weekly churn in Nov)
+1089,4669,NULL,111036,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Optimise Customer Feedback Collection & Brand Refresh
+1090,4669,NULL,111036,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive CX Excellence and Personal Growth
+1091,4669,NULL,87993,1,30/09/2024 23:00,31/12/2024 21:59,4,1,0,"Enhance brand awareness and engagement through high-quality, impactful voiceover recordings for social media and marketing campaigns"
+1092,4669,7853,159135,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Refine and Implement Clear Brand Messaging Across All Channels
+1093,4669,7853,159135,2,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Increase Brand Visibility through Strategic Partnerships and Media Coverage
+1094,4669,7853,159135,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Maximise Audience Engagement and Build Awareness for the Brand Relaunch
+1095,4669,NULL,159135,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Continuous learning and improvement
+1096,4669,NULL,159135,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Continuous learning and improvement
+1097,4669,NULL,87989,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Assist in building a High Performing sales team
+1098,4669,NULL,87989,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Increase UK sales conversion rate from 15.2% to 18% by the end of Q4.
+1099,4669,NULL,87989,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Increase sales Performance by the end of Q4
+1100,4669,NULL,87989,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Becoming my best self
+1101,4669,NULL,87998,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Decrease weekly churn from 6.1% to 5% (average weekly churn in Nov)
+1102,4669,NULL,87998,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Optimize Customer Feedback Collection & Brand Refresh
+1103,4669,NULL,87998,1,01/10/2024 00:00,31/12/2024 22:59,4,1,0,Drive CX Excellence and Personal Growth
+1104,4669,17763,157417,2,01/10/2024 01:00,31/12/2024 23:59,4,1,8.33,Build a High-Performance Culture to Support 2x Growth
+1105,4669,17763,157417,2,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive Employee Experience and Satisfaction.
+1106,4669,17763,157417,2,01/10/2024 01:00,31/12/2024 23:59,4,1,6.67,Align HR Processes with the Successful Brand Relaunch.
+1107,4669,NULL,87999,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Decrease weekly churn from 6.1% to 5% (average weekly churn in Nov)
+1108,4669,NULL,87999,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Optimize Customer Feedback Collection & Brand Refresh
+1109,4669,NULL,87999,1,01/10/2024 01:00,31/12/2024 23:59,4,1,0,Drive CX Excellence and Personal Growth
